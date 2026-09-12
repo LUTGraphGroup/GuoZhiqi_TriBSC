@@ -1,0 +1,25 @@
+{
+  "build_signature_json": "{\"cache_version\": 2, \"config\": {\"build_strict_duplicate_protocol\": true, \"compute_sha256\": false, \"ctd_inferred_weight_cap\": 0.35, \"disgenet_unweighted_default\": 0.7, \"force_rebuild\": false, \"go_include_iea\": true, \"mirna_strong_topk\": 64, \"mirna_weak_topk\": 32, \"pandas_chunk_size\": 250000, \"pathway_max_genes\": 500, \"pathway_min_active_genes\": 2, \"pathway_min_genes\": 3, \"store_ctd_inferred\": false, \"store_weak_mirtarbase\": false, \"string_score_threshold\": 700}, \"inputs\": {\"association\": {\"mtime_ns\": 1784807895290087288, \"path\": \"/root/autodl-tmp/data/miRNA-disease association.txt\", \"size\": 590212}, \"ctd_all\": {\"mtime_ns\": 1785440616000000000, \"path\": \"/root/autodl-tmp/disease_gene/CTD_genes_diseases.tsv.gz\", \"size\": 3168730557}, \"ctd_curated\": {\"mtime_ns\": 1785434781000000000, \"path\": \"/root/autodl-tmp/disease_gene/CTD_curated_genes_diseases.tsv.gz\", \"size\": 563686}, \"disease_mesh\": {\"mtime_ns\": 1785986783586757393, \"path\": \"/root/autodl-tmp/gene_bridge/疾病名称_MeSH编号.xlsx\", \"size\": 13597}, \"disease_names\": {\"mtime_ns\": 1784807873470037037, \"path\": \"/root/autodl-tmp/data/disease name.xlsx\", \"size\": 16562}, \"disease_similarity\": {\"mtime_ns\": 1784807881282055054, \"path\": \"/root/autodl-tmp/data/disease_semantic_similarity.txt\", \"size\": 979506}, \"disgenet\": {\"mtime_ns\": 1785929719451173764, \"path\": \"/root/autodl-tmp/gene_bridge/disgenet_disease_gene_association_疾病名称_MeSH编号_带置信权重.xlsx\", \"size\": 877718}, \"gene_history\": {\"mtime_ns\": 1785808115000000000, \"path\": \"/root/autodl-tmp/gene_id_mapping/gene_history.gz\", \"size\": 159975458}, \"gene_info\": {\"mtime_ns\": 1785808680000000000, \"path\": \"/root/autodl-tmp/gene_id_mapping/Homo_sapiens.gene_info.gz\", \"size\": 5175260}, \"go_obo\": {\"mtime_ns\": 1785929739675354075, \"path\": \"/root/autodl-tmp/gene_bridge/go-basic.obo\", \"size\": 32215811}, \"goa\": {\"mtime_ns\": 1785929739679354111, \"path\": \"/root/autodl-tmp/gene_bridge/goa_human.gaf\", \"size\": 175747517}, \"hgnc\": {\"mtime_ns\": 1785848516000000000, \"path\": \"/root/autodl-tmp/gene_id_mapping/hgnc_complete_set.txt\", \"size\": 16930015}, \"mirbase\": {\"mtime_ns\": 1784807926870159614, \"path\": \"/root/autodl-tmp/data/miRNA.csv\", \"size\": 8279931}, \"mirna_names\": {\"mtime_ns\": 1784807876222043388, \"path\": \"/root/autodl-tmp/data/mirna-list.xlsx\", \"size\": 18803}, \"mirna_similarity\": {\"mtime_ns\": 1784807896686090494, \"path\": \"/root/autodl-tmp/data/miRNA_sequence_similarity.txt\", \"size\": 4968340}, \"mirtarbase\": {\"mtime_ns\": 1785929740879364782, \"path\": \"/root/autodl-tmp/gene_bridge/miRTarBase_MTI.csv\", \"size\": 393095667}, \"reactome_gene_pathway\": {\"mtime_ns\": 1781829359000000000, \"path\": \"/root/autodl-tmp/pathway/NCBI2Reactome_All_Levels.txt\", \"size\": 98024930}, \"reactome_pathways\": {\"mtime_ns\": 1781830031000000000, \"path\": \"/root/autodl-tmp/pathway/ReactomePathways.txt\", \"size\": 1592393}, \"reactome_relations\": {\"mtime_ns\": 1781829448000000000, \"path\": \"/root/autodl-tmp/pathway/ReactomePathwaysRelation.txt\", \"size\": 634259}, \"string_aliases\": {\"mtime_ns\": 1685537348000000000, \"path\": \"/root/autodl-tmp/ppi/9606.protein.aliases.v12.0.txt.gz\", \"size\": 19777800}, \"string_info\": {\"mtime_ns\": 1685533668000000000, \"path\": \"/root/autodl-tmp/ppi/9606.protein.info.v12.0.txt.gz\", \"size\": 1970090}, \"string_links\": {\"mtime_ns\": 1684325942000000000, \"path\": \"/root/autodl-tmp/ppi/9606.protein.physical.links.v12.0.txt.gz\", \"size\": 8954065}}}",
+  "cache_version": 2,
+  "created_unix_time": 1786326159.5690136,
+  "label_safe": true,
+  "output_files": [
+    "benchmark_legacy.npz",
+    "benchmark_strict.npz",
+    "canonical_genes.csv",
+    "data_audit_report.json",
+    "data_audit_report.txt",
+    "disease_entity_mapping.csv",
+    "disease_gene_edges.npz",
+    "duplicate_disease_report.csv",
+    "entity_names.json",
+    "gene_go_edges.npz",
+    "gene_pathway_edges.npz",
+    "gene_ppi_edges.npz",
+    "go_terms.csv",
+    "mirna_entity_mapping.csv",
+    "mirna_gene_edges.npz",
+    "pathway_hierarchy.npz",
+    "reactome_pathways.csv"
+  ]
+}
