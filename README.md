@@ -100,8 +100,6 @@ For an NVIDIA GPU environment that supports CUDA 12.8, install PyTorch with:
 python -m pip install torch==2.8.0 --index-url https://download.pytorch.org/whl/cu128
 ```
 
-See the [official PyTorch instructions for previous versions](https://pytorch.org/get-started/previous-versions/) for installation details. The code uses a GPU when CUDA is available and otherwise falls back to the CPU. CPU runtime depends on the hardware.
-
 To read HMDD Excel files or export a combined Excel workbook in the case study, also install:
 
 ```bash
@@ -153,7 +151,7 @@ The main evaluation metrics are AUC, AUPR, Accuracy, Precision, Recall, and F1.
 python run_main01_case_study.py
 ```
 
-By default, case studies are conducted for `Colonic Neoplasms` and `Liver Neoplasms`, with the top 15 novel candidate miRNAs reported for each disease. Known training associations are saved separately and excluded from novel-candidate rankings. Retrospective experiments that hold out known associations are also enabled by default.
+By default, case studies are conducted for `Colonic Neoplasms` and `Liver Neoplasms`, with the top 15 novel candidate miRNAs reported for each disease. Known training associations are saved separately and excluded from novel-candidate rankings.
 
 To change the target diseases or the number of candidates, run:
 
@@ -161,15 +159,13 @@ To change the target diseases or the number of candidates, run:
 python run_main01_case_study.py --targets "Colonic Neoplasms" "Liver Neoplasms" --topk 20
 ```
 
-To check supporting evidence against external HMDD or dbDEMC data, supply the corresponding files separately using `--hmdd_xlsx` or `--dbdemc_txt`. These external evidence files are not included in the current data package. HMDD is used for post-hoc corroboration of candidate associations; the dbDEMC input is used only to report disease-level dataset coverage. `FusionRankScore` is a fused ranking score within the candidate pool, not a calibrated association probability.
-
 ### 3. Strict Cold-Start Evaluation
 
 ```bash
 python run_main01_strict_cold_start.py
 ```
 
-By default, both disease and miRNA cold-start evaluations are performed. Training and test sets are split by whole entities, and inner validation is also performed using entity-level splits. Associations involving test entities are excluded when constructing the corresponding training-network features. The experiments compare the full model with a variant that omits biological Branch A.
+By default, both disease and miRNA cold-start evaluations are performed.
 
 To run only one mode, use the corresponding command:
 
@@ -195,7 +191,7 @@ This runner evaluates the six branch-level variants reported in the paper, toget
 | w/o Structural | A + C |
 | w/o Completion | A + B |
 
-All groups use the same sampled pairs, five-fold splits, and inner validation splits. Each unchanged branch is trained once per fold, and its predictions are reused across variants. Fusion weights are reselected on the inner validation set using only the retained branches. This runner does not perform internal component ablations of Branch A.
+All groups use the same sampled pairs, five-fold splits, and inner validation splits. Each unchanged branch is trained once per fold, and its predictions are reused across variants. Fusion weights are reselected on the inner validation set using only the retained branches.
 
 ### 5. Main Model: Five-Fold Cross-Validation on HMDD v4.0
 
