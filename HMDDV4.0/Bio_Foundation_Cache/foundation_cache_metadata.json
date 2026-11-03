@@ -1,0 +1,40 @@
+{
+  "signature": {
+    "rna_model_name": "micro-v1",
+    "rna_model_config": "micro",
+    "rna_pooling": "cls_mean",
+    "rna_weights_md5": "620e591f1bf962abe8efd9d0d5ec4647",
+    "rna_source": "official_lbcb_sci_RiNALMo_Zenodo_15043668",
+    "disease_model_name": "/root/autodl-tmp/BiomedBERT",
+    "mirna_name_file": {
+      "path": "/root/autodl-tmp/HMDDv4_experiment/data/mirna-list.xlsx",
+      "size": 12946,
+      "mtime_ns": 1791043488237691311,
+      "sha256": "759ec789f8e070e5ddbb48b994759071c691391641ffedd85f89e45fdd94e837"
+    },
+    "disease_name_file": {
+      "path": "/root/autodl-tmp/HMDDv4_experiment/data/disease name.xlsx",
+      "size": 25513,
+      "mtime_ns": 1791043488257691844,
+      "sha256": "99690db4646e99704807fab992d00bc12427c1615bbece9ca0b818709b7b310b"
+    },
+    "mirbase_csv_file": {
+      "path": "/root/autodl-tmp/HMDDv4_experiment/data/miRNA.csv",
+      "size": 8279931,
+      "mtime_ns": 1784807926870159614,
+      "sha256": "c361ad81572ccee089c3244e413a38bc248b098614bad1efa88f6b18dbc1aeef"
+    },
+    "mesh_xml_file": {
+      "path": "/root/autodl-tmp/HMDDv4_experiment/data/desc2025.xml",
+      "size": 314017260,
+      "mtime_ns": 1784808071626308124
+    }
+  },
+  "num_model_mirna": 1219,
+  "num_unique_precursors": 1219,
+  "max_precursors_per_entity": 1,
+  "num_model_disease": 1490,
+  "rna_embedding_dim": 960,
+  "disease_embedding_dim": 768,
+  "duplicate_disease_names_preserved": true
+}
