@@ -106,8 +106,6 @@ To read HMDD Excel files or export a combined Excel workbook in the case study, 
 python -m pip install pandas openpyxl
 ```
 
-`pandas` and `openpyxl` are required for these Excel features. Their versions were not specified in the original environment notes. The case study can still produce CSV and JSON results without these features.
-
 ## Path Setup
 
 Open a terminal and change to the repository root, which contains `main_01.py`. Unless otherwise noted, run the experiment commands below from that directory.
