@@ -1,0 +1,1491 @@
+﻿model_disease_index,model_disease_name,mesh_ids,mapping_sources,mapped
+0,"Abnormalities, Drug-Induced",D000014,D8_MeSH_XML|disease_mesh_xlsx,True
+1,"Abnormalities, Multiple",D000015,D8_MeSH_XML|disease_mesh_xlsx,True
+2,"Abortion, Spontaneous",D000022,D8_MeSH_XML|disease_mesh_xlsx,True
+3,"Abortion, Habitual",D000026,D8_MeSH_XML|disease_mesh_xlsx,True
+4,"Abortion, Septic",D000031,D8_MeSH_XML|disease_mesh_xlsx,True
+5,Peritonsillar Abscess,D000039,D8_MeSH_XML|disease_mesh_xlsx,True
+6,Social Communication Disorder,D000067404,D8_MeSH_XML|disease_mesh_xlsx,True
+7,Late Onset Disorders,D000067562,D8_MeSH_XML|disease_mesh_xlsx,True
+8,Autism Spectrum Disorder,D000067877,D8_MeSH_XML|disease_mesh_xlsx,True
+9,Drug Resistant Epilepsy,D000069279,D8_MeSH_XML|disease_mesh_xlsx,True
+10,Plasmablastic Lymphoma,D000069293,D8_MeSH_XML|disease_mesh_xlsx,True
+11,Long Term Adverse Effects,D000069451,D8_MeSH_XML|disease_mesh_xlsx,True
+12,Anterior Cruciate Ligament Injuries,D000070598,D8_MeSH_XML|disease_mesh_xlsx,True
+13,Shoulder Injuries,D000070599,D8_MeSH_XML|disease_mesh_xlsx,True
+14,Tibial Meniscus Injuries,D000070600,D8_MeSH_XML|disease_mesh_xlsx,True
+15,Rotator Cuff Injuries,D000070636,D8_MeSH_XML|disease_mesh_xlsx,True
+16,"Brain Injuries, Traumatic",D000070642,D8_MeSH_XML|disease_mesh_xlsx,True
+17,Anorectal Malformations,D000071056,D8_MeSH_XML|disease_mesh_xlsx,True
+18,Neonatal Sepsis,D000071074,D8_MeSH_XML|disease_mesh_xlsx,True
+19,"Stenosis, Pulmonary Artery",D000071079,D8_MeSH_XML|disease_mesh_xlsx,True
+20,Zika Virus Infection,D000071243,D8_MeSH_XML|disease_mesh_xlsx,True
+21,Emergence Delirium,D000071257,D8_MeSH_XML|disease_mesh_xlsx,True
+22,ST Elevation Myocardial Infarction,D000072657,D8_MeSH_XML|disease_mesh_xlsx,True
+23,Non-ST Elevated Myocardial Infarction,D000072658,D8_MeSH_XML|disease_mesh_xlsx,True
+24,Teratozoospermia,D000072660,D8_MeSH_XML|disease_mesh_xlsx,True
+25,Cancer Pain,D000072716,D8_MeSH_XML|disease_mesh_xlsx,True
+26,Propofol Infusion Syndrome,D000072736,D8_MeSH_XML|disease_mesh_xlsx,True
+27,Microvascular Rarefaction,D000073436,D8_MeSH_XML|disease_mesh_xlsx,True
+28,Frailty,D000073496,D8_MeSH_XML|disease_mesh_xlsx,True
+29,Varicella Zoster Virus Infection,D000073618,D8_MeSH_XML|disease_mesh_xlsx,True
+30,Cerebral Intraventricular Hemorrhage,D000074042,D8_MeSH_XML|disease_mesh_xlsx,True
+31,Opium Dependence,D000074607,D8_MeSH_XML|disease_mesh_xlsx,True
+32,Essential Hypertension,D000075222,D8_MeSH_XML|disease_mesh_xlsx,True
+33,"Hypoadrenocorticism, Familial",D000075262,D8_MeSH_XML|disease_mesh_xlsx,True
+34,Adenocarcinoma of Lung,D000077192,D8_MeSH_XML|disease_mesh_xlsx,True
+35,Squamous Cell Carcinoma of Head and Neck,D000077195,D8_MeSH_XML|disease_mesh_xlsx,True
+36,"Carcinoma, Ovarian Epithelial",D000077216,D8_MeSH_XML|disease_mesh_xlsx,True
+37,"Thyroid Cancer, Papillary",D000077273,D8_MeSH_XML|disease_mesh_xlsx,True
+38,Nasopharyngeal Carcinoma,D000077274,D8_MeSH_XML|disease_mesh_xlsx,True
+39,Esophageal Squamous Cell Carcinoma,D000077277,D8_MeSH_XML|disease_mesh_xlsx,True
+40,GATA2 Deficiency,D000077428,D8_MeSH_XML|disease_mesh_xlsx,True
+41,Immunoglobulin G4-Related Disease,D000077733,D8_MeSH_XML|disease_mesh_xlsx,True
+42,Pancreatic Intraductal Neoplasms,D000077779,D8_MeSH_XML|disease_mesh_xlsx,True
+43,Pregnancy in Obesity,D000079262,D8_MeSH_XML|disease_mesh_xlsx,True
+44,Vector Borne Diseases,D000079426,D8_MeSH_XML|disease_mesh_xlsx,True
+45,Postoperative Cognitive Complications,D000079690,D8_MeSH_XML|disease_mesh_xlsx,True
+46,Univentricular Heart,D000080039,D8_MeSH_XML|disease_mesh_xlsx,True
+47,Chronic Urticaria,D000080223,D8_MeSH_XML|disease_mesh_xlsx,True
+48,White Dot Syndromes,D000080363,D8_MeSH_XML|disease_mesh_xlsx,True
+49,Cytokine Release Syndrome,D000080424,D8_MeSH_XML|disease_mesh_xlsx,True
+50,Relative Energy Deficiency in Sport,D000080822,D8_MeSH_XML|disease_mesh_xlsx,True
+51,Synucleinopathies,D000080874,D8_MeSH_XML|disease_mesh_xlsx,True
+52,Autoimmune Pancreatitis,D000081012,D8_MeSH_XML|disease_mesh_xlsx,True
+53,Pulmonary Arterial Hypertension,D000081029,D8_MeSH_XML|disease_mesh_xlsx,True
+54,"Pancreatitis, Acute Hemorrhagic",D000081032,D8_MeSH_XML|disease_mesh_xlsx,True
+55,Body Integrity Identity Disorder,D000081042,D8_MeSH_XML|disease_mesh_xlsx,True
+56,Squamous Intraepithelial Lesions,D000081483,D8_MeSH_XML|disease_mesh_xlsx,True
+57,Cerebral Cortical Thinning,D000082643,D8_MeSH_XML|disease_mesh_xlsx,True
+58,Aortic Valve Disease,D000082862,D8_MeSH_XML|disease_mesh_xlsx,True
+59,Bicuspid Aortic Valve Disease,D000082882,D8_MeSH_XML|disease_mesh_xlsx,True
+60,Colitis-Associated Neoplasms,D000083023,D8_MeSH_XML|disease_mesh_xlsx,True
+61,Laminopathies,D000083083,D8_MeSH_XML|disease_mesh_xlsx,True
+62,Reinjuries,D000083102,D8_MeSH_XML|disease_mesh_xlsx,True
+63,Ischemic Stroke,D000083242,D8_MeSH_XML|disease_mesh_xlsx,True
+64,Thrombotic Stroke,D000083244,D8_MeSH_XML|disease_mesh_xlsx,True
+65,Embolic Stroke,D000083262,D8_MeSH_XML|disease_mesh_xlsx,True
+66,Hemorrhagic Stroke,D000083302,D8_MeSH_XML|disease_mesh_xlsx,True
+67,Severe Fever with Thrombocytopenia Syndrome,D000085142,D8_MeSH_XML|disease_mesh_xlsx,True
+68,"Mesothelioma, Malignant",D000086002,D8_MeSH_XML|disease_mesh_xlsx,True
+69,COVID-19,D000086382,D8_MeSH_XML|disease_mesh_xlsx,True
+70,Chronic Limb-Threatening Ischemia,D000089802,D8_MeSH_XML|disease_mesh_xlsx,True
+71,Neuroinflammatory Diseases,D000090862,D8_MeSH_XML|disease_mesh_xlsx,True
+72,Bronchiolitis Obliterans Syndrome,D000092122,D8_MeSH_XML|disease_mesh_xlsx,True
+73,Popliteal Artery Aneurysm,D000094622,D8_MeSH_XML|disease_mesh_xlsx,True
+74,"Dissection, Thoracic Aorta",D000094629,D8_MeSH_XML|disease_mesh_xlsx,True
+75,Uveal Melanoma,D000098943,D8_MeSH_XML|disease_mesh_xlsx,True
+76,Community-Acquired Pneumonia,D000098968,D8_MeSH_XML|disease_mesh_xlsx,True
+77,Peripartum Cardiomyopathy,D000099088,D8_MeSH_XML|disease_mesh_xlsx,True
+78,Acidosis,D000138,D8_MeSH_XML|disease_mesh_xlsx,True
+79,"Acidosis, Respiratory",D000142,D8_MeSH_XML|disease_mesh_xlsx,True
+80,Acne Vulgaris,D000152,D8_MeSH_XML|disease_mesh_xlsx,True
+81,Acquired Immunodeficiency Syndrome,D000163,D8_MeSH_XML|disease_mesh_xlsx,True
+82,Acromegaly,D000172,D8_MeSH_XML|disease_mesh_xlsx,True
+83,"ACTH Syndrome, Ectopic",D000182,D8_MeSH_XML|disease_mesh_xlsx,True
+84,Acute Disease,D000208,D8_MeSH_XML|disease_mesh_xlsx,True
+85,Addison Disease,D000224,D8_MeSH_XML|disease_mesh_xlsx,True
+86,Adenocarcinoma,D000230,D8_MeSH_XML|disease_mesh_xlsx,True
+87,Adenoma,D000236,D8_MeSH_XML|disease_mesh_xlsx,True
+88,Adenoviridae Infections,D000257,D8_MeSH_XML|disease_mesh_xlsx,True
+89,Tissue Adhesions,D000267,D8_MeSH_XML|disease_mesh_xlsx,True
+90,Adrenal Cortex Neoplasms,D000306,D8_MeSH_XML|disease_mesh_xlsx,True
+91,Adrenoleukodystrophy,D000326,D8_MeSH_XML|disease_mesh_xlsx,True
+92,Agammaglobulinemia,D000361,D8_MeSH_XML|disease_mesh_xlsx,True
+93,AIDS-Related Complex,D000386,D8_MeSH_XML|disease_mesh_xlsx,True
+94,Airway Obstruction,D000402,D8_MeSH_XML|disease_mesh_xlsx,True
+95,Albuminuria,D000419,D8_MeSH_XML|disease_mesh_xlsx,True
+96,Alcohol Withdrawal Delirium,D000430,D8_MeSH_XML|disease_mesh_xlsx,True
+97,Alcoholism,D000437,D8_MeSH_XML|disease_mesh_xlsx,True
+98,Alopecia,D000505,D8_MeSH_XML|disease_mesh_xlsx,True
+99,Alopecia Areata,D000506,D8_MeSH_XML|disease_mesh_xlsx,True
+100,Altitude Sickness,D000532,D8_MeSH_XML|disease_mesh_xlsx,True
+101,Alzheimer Disease,D000544,D8_MeSH_XML|disease_mesh_xlsx,True
+102,Amebiasis,D000562,D8_MeSH_XML|disease_mesh_xlsx,True
+103,Ameloblastoma,D000564,D8_MeSH_XML|disease_mesh_xlsx,True
+104,Amelogenesis Imperfecta,D000567,D8_MeSH_XML|disease_mesh_xlsx,True
+105,Amnesia,D000647,D8_MeSH_XML|disease_mesh_xlsx,True
+106,Amyloidosis,D000686,D8_MeSH_XML|disease_mesh_xlsx,True
+107,Amyotrophic Lateral Sclerosis,D000690,D8_MeSH_XML|disease_mesh_xlsx,True
+108,Anaphylaxis,D000707,D8_MeSH_XML|disease_mesh_xlsx,True
+109,Anemia,D000740,D8_MeSH_XML|disease_mesh_xlsx,True
+110,"Anemia, Aplastic",D000741,D8_MeSH_XML|disease_mesh_xlsx,True
+111,"Anemia, Hemolytic",D000743,D8_MeSH_XML|disease_mesh_xlsx,True
+112,"Anemia, Neonatal",D000751,D8_MeSH_XML|disease_mesh_xlsx,True
+113,"Anemia, Sickle Cell",D000755,D8_MeSH_XML|disease_mesh_xlsx,True
+114,Aneuploidy,D000782,D8_MeSH_XML|disease_mesh_xlsx,True
+115,Aneurysm,D000783,D8_MeSH_XML|disease_mesh_xlsx,True
+116,Aortic Dissection,D000784,D8_MeSH_XML|disease_mesh_xlsx,True
+117,"Angina Pectoris, Variant",D000788,D8_MeSH_XML|disease_mesh_xlsx,True
+118,"Angina, Unstable",D000789,D8_MeSH_XML|disease_mesh_xlsx,True
+119,Fabry Disease,D000795,D8_MeSH_XML|disease_mesh_xlsx,True
+120,Anodontia,D000848,D8_MeSH_XML|disease_mesh_xlsx,True
+121,Anorexia Nervosa,D000856,D8_MeSH_XML|disease_mesh_xlsx,True
+122,Olfaction Disorders,D000857,D8_MeSH_XML|disease_mesh_xlsx,True
+123,Anovulation,D000858,D8_MeSH_XML|disease_mesh_xlsx,True
+124,Hypoxia,D000860,D8_MeSH_XML|disease_mesh_xlsx,True
+125,Anxiety Disorders,D001008,D8_MeSH_XML|disease_mesh_xlsx,True
+126,Aortic Aneurysm,D001014,D8_MeSH_XML|disease_mesh_xlsx,True
+127,Aortic Diseases,D001018,D8_MeSH_XML|disease_mesh_xlsx,True
+128,Aortic Valve Insufficiency,D001022,D8_MeSH_XML|disease_mesh_xlsx,True
+129,Aortic Valve Stenosis,D001024,D8_MeSH_XML|disease_mesh_xlsx,True
+130,Arnold-Chiari Malformation,D001139,D8_MeSH_XML|disease_mesh_xlsx,True
+131,"Arrhythmias, Cardiac",D001145,D8_MeSH_XML|disease_mesh_xlsx,True
+132,Arterial Occlusive Diseases,D001157,D8_MeSH_XML|disease_mesh_xlsx,True
+133,Arteriosclerosis,D001161,D8_MeSH_XML|disease_mesh_xlsx,True
+134,Arteriosclerosis Obliterans,D001162,D8_MeSH_XML|disease_mesh_xlsx,True
+135,Arteriovenous Fistula,D001164,D8_MeSH_XML|disease_mesh_xlsx,True
+136,Arteriovenous Malformations,D001165,D8_MeSH_XML|disease_mesh_xlsx,True
+137,Arteritis,D001167,D8_MeSH_XML|disease_mesh_xlsx,True
+138,Arthritis,D001168,D8_MeSH_XML|disease_mesh_xlsx,True
+139,"Arthritis, Juvenile",D001171,D8_MeSH_XML|disease_mesh_xlsx,True
+140,"Arthritis, Rheumatoid",D001172,D8_MeSH_XML|disease_mesh_xlsx,True
+141,Aspergillosis,D001228,D8_MeSH_XML|disease_mesh_xlsx,True
+142,"Aspergillosis, Allergic Bronchopulmonary",D001229,D8_MeSH_XML|disease_mesh_xlsx,True
+143,Asphyxia,D001237,D8_MeSH_XML|disease_mesh_xlsx,True
+144,Asthma,D001249,D8_MeSH_XML|disease_mesh_xlsx,True
+145,Astrocytoma,D001254,D8_MeSH_XML|disease_mesh_xlsx,True
+146,Ataxia Telangiectasia,D001260,D8_MeSH_XML|disease_mesh_xlsx,True
+147,Atrial Fibrillation,D001281,D8_MeSH_XML|disease_mesh_xlsx,True
+148,Atrophy,D001284,D8_MeSH_XML|disease_mesh_xlsx,True
+149,Attention Deficit Disorder with Hyperactivity,D001289,D8_MeSH_XML|disease_mesh_xlsx,True
+150,Autistic Disorder,D001321,D8_MeSH_XML|disease_mesh_xlsx,True
+151,Autoimmune Diseases,D001327,D8_MeSH_XML|disease_mesh_xlsx,True
+152,Autolysis,D001329,D8_MeSH_XML|disease_mesh_xlsx,True
+153,Avitaminosis,D001361,D8_MeSH_XML|disease_mesh_xlsx,True
+154,Bacterial Infections,D001424,D8_MeSH_XML|disease_mesh_xlsx,True
+155,Barrett Esophagus,D001471,D8_MeSH_XML|disease_mesh_xlsx,True
+156,Mental Disorders,D001523,D8_MeSH_XML|disease_mesh_xlsx,True
+157,Behcet Syndrome,D001528,D8_MeSH_XML|disease_mesh_xlsx,True
+158,Biliary Atresia,D001656,D8_MeSH_XML|disease_mesh_xlsx,True
+159,Biliary Tract Diseases,D001660,D8_MeSH_XML|disease_mesh_xlsx,True
+160,Biliary Tract Neoplasms,D001661,D8_MeSH_XML|disease_mesh_xlsx,True
+161,Bipolar Disorder,D001714,D8_MeSH_XML|disease_mesh_xlsx,True
+162,Bird Diseases,D001715,D8_MeSH_XML|disease_mesh_xlsx,True
+163,Birth Weight,D001724,D8_MeSH_XML|disease_mesh_xlsx,True
+164,Urinary Bladder Diseases,D001745,D8_MeSH_XML|disease_mesh_xlsx,True
+165,Urinary Bladder Neoplasms,D001749,D8_MeSH_XML|disease_mesh_xlsx,True
+166,Blast Crisis,D001752,D8_MeSH_XML|disease_mesh_xlsx,True
+167,Blind Loop Syndrome,D001765,D8_MeSH_XML|disease_mesh_xlsx,True
+168,Blood Coagulation Disorders,D001778,D8_MeSH_XML|disease_mesh_xlsx,True
+169,Blood Platelet Disorders,D001791,D8_MeSH_XML|disease_mesh_xlsx,True
+170,Bloom Syndrome,D001816,D8_MeSH_XML|disease_mesh_xlsx,True
+171,Body Weight,D001835,D8_MeSH_XML|disease_mesh_xlsx,True
+172,Bone Diseases,D001847,D8_MeSH_XML|disease_mesh_xlsx,True
+173,"Bone Diseases, Metabolic",D001851,D8_MeSH_XML|disease_mesh_xlsx,True
+174,Bone Marrow Diseases,D001855,D8_MeSH_XML|disease_mesh_xlsx,True
+175,Bone Neoplasms,D001859,D8_MeSH_XML|disease_mesh_xlsx,True
+176,Bone Regeneration,D001861,D8_MeSH_XML|disease_mesh_xlsx,True
+177,Borna Disease,D001890,D8_MeSH_XML|disease_mesh_xlsx,True
+178,Bovine Virus Diarrhea-Mucosal Disease,D001912,D8_MeSH_XML|disease_mesh_xlsx,True
+179,"Brain Damage, Chronic",D001925,D8_MeSH_XML|disease_mesh_xlsx,True
+180,Brain Death,D001926,D8_MeSH_XML|disease_mesh_xlsx,True
+181,Brain Diseases,D001927,D8_MeSH_XML|disease_mesh_xlsx,True
+182,Brain Injuries,D001930,D8_MeSH_XML|disease_mesh_xlsx,True
+183,Brain Neoplasms,D001932,D8_MeSH_XML|disease_mesh_xlsx,True
+184,Breast Diseases,D001941,D8_MeSH_XML|disease_mesh_xlsx,True
+185,Breast Neoplasms,D001943,D8_MeSH_XML|disease_mesh_xlsx,True
+186,Bronchial Diseases,D001982,D8_MeSH_XML|disease_mesh_xlsx,True
+187,Bronchiolitis Obliterans,D001989,D8_MeSH_XML|disease_mesh_xlsx,True
+188,Bronchopneumonia,D001996,D8_MeSH_XML|disease_mesh_xlsx,True
+189,Bronchopulmonary Dysplasia,D001997,D8_MeSH_XML|disease_mesh_xlsx,True
+190,Brucellosis,D002006,D8_MeSH_XML|disease_mesh_xlsx,True
+191,Burkitt Lymphoma,D002051,D8_MeSH_XML|disease_mesh_xlsx,True
+192,Burns,D002056,D8_MeSH_XML|disease_mesh_xlsx,True
+193,Bursitis,D002062,D8_MeSH_XML|disease_mesh_xlsx,True
+194,Cachexia,D002100,D8_MeSH_XML|disease_mesh_xlsx,True
+195,Calcinosis,D002114,D8_MeSH_XML|disease_mesh_xlsx,True
+196,Carcinoma,D002277,D8_MeSH_XML|disease_mesh_xlsx,True
+197,Carcinoma in Situ,D002278,D8_MeSH_XML|disease_mesh_xlsx,True
+198,"Carcinoma, Basal Cell",D002280,D8_MeSH_XML|disease_mesh_xlsx,True
+199,"Carcinoma, Brown-Pearce",D002284,D8_MeSH_XML|disease_mesh_xlsx,True
+200,"Carcinoma, Intraductal, Noninfiltrating",D002285,D8_MeSH_XML|disease_mesh_xlsx,True
+201,"Carcinoma, Non-Small-Cell Lung",D002289,D8_MeSH_XML|disease_mesh_xlsx,True
+202,"Carcinoma, Renal Cell",D002292,D8_MeSH_XML|disease_mesh_xlsx,True
+203,"Carcinoma, Squamous Cell",D002294,D8_MeSH_XML|disease_mesh_xlsx,True
+204,"Carcinoma, Transitional Cell",D002295,D8_MeSH_XML|disease_mesh_xlsx,True
+205,Carcinosarcoma,D002296,D8_MeSH_XML|disease_mesh_xlsx,True
+206,"Cardiomyopathy, Alcoholic",D002310,D8_MeSH_XML|disease_mesh_xlsx,True
+207,"Cardiomyopathy, Dilated",D002311,D8_MeSH_XML|disease_mesh_xlsx,True
+208,"Cardiomyopathy, Hypertrophic",D002312,D8_MeSH_XML|disease_mesh_xlsx,True
+209,Cardiovascular Diseases,D002318,D8_MeSH_XML|disease_mesh_xlsx,True
+210,Carotid Artery Diseases,D002340,D8_MeSH_XML|disease_mesh_xlsx,True
+211,Cartilage Diseases,D002357,D8_MeSH_XML|disease_mesh_xlsx,True
+212,Cataract,D002386,D8_MeSH_XML|disease_mesh_xlsx,True
+213,Celiac Disease,D002446,D8_MeSH_XML|disease_mesh_xlsx,True
+214,"Cell Transformation, Neoplastic",D002471,D8_MeSH_XML|disease_mesh_xlsx,True
+215,Central Nervous System Diseases,D002493,D8_MeSH_XML|disease_mesh_xlsx,True
+216,Cerebellar Diseases,D002526,D8_MeSH_XML|disease_mesh_xlsx,True
+217,Intracranial Aneurysm,D002532,D8_MeSH_XML|disease_mesh_xlsx,True
+218,"Hypoxia, Brain",D002534,D8_MeSH_XML|disease_mesh_xlsx,True
+219,Intracranial Arteriosclerosis,D002537,D8_MeSH_XML|disease_mesh_xlsx,True
+220,Intracranial Arteriovenous Malformations,D002538,D8_MeSH_XML|disease_mesh_xlsx,True
+221,Cerebral Hemorrhage,D002543,D8_MeSH_XML|disease_mesh_xlsx,True
+222,Cerebral Infarction,D002544,D8_MeSH_XML|disease_mesh_xlsx,True
+223,Brain Ischemia,D002545,D8_MeSH_XML|disease_mesh_xlsx,True
+224,"Ischemic Attack, Transient",D002546,D8_MeSH_XML|disease_mesh_xlsx,True
+225,Cerebral Palsy,D002547,D8_MeSH_XML|disease_mesh_xlsx,True
+226,Cerebrovascular Disorders,D002561,D8_MeSH_XML|disease_mesh_xlsx,True
+227,Cervical Rib Syndrome,D002573,D8_MeSH_XML|disease_mesh_xlsx,True
+228,Uterine Cervical Diseases,D002577,D8_MeSH_XML|disease_mesh_xlsx,True
+229,Uterine Cervical Dysplasia,D002578,D8_MeSH_XML|disease_mesh_xlsx,True
+230,Uterine Cervical Neoplasms,D002583,D8_MeSH_XML|disease_mesh_xlsx,True
+231,Cestode Infections,D002590,D8_MeSH_XML|disease_mesh_xlsx,True
+232,Chagas Cardiomyopathy,D002598,D8_MeSH_XML|disease_mesh_xlsx,True
+233,Charcot-Marie-Tooth Disease,D002607,D8_MeSH_XML|disease_mesh_xlsx,True
+234,Developmental Disabilities,D002658,D8_MeSH_XML|disease_mesh_xlsx,True
+235,"Child Development Disorders, Pervasive",D002659,D8_MeSH_XML|disease_mesh_xlsx,True
+236,Chlamydia Infections,D002690,D8_MeSH_XML|disease_mesh_xlsx,True
+237,Cholecystitis,D002764,D8_MeSH_XML|disease_mesh_xlsx,True
+238,Cholelithiasis,D002769,D8_MeSH_XML|disease_mesh_xlsx,True
+239,Cholera,D002771,D8_MeSH_XML|disease_mesh_xlsx,True
+240,Cholestasis,D002779,D8_MeSH_XML|disease_mesh_xlsx,True
+241,"Cholestasis, Intrahepatic",D002780,D8_MeSH_XML|disease_mesh_xlsx,True
+242,Cholesteatoma,D002781,D8_MeSH_XML|disease_mesh_xlsx,True
+243,Chondrocalcinosis,D002805,D8_MeSH_XML|disease_mesh_xlsx,True
+244,Chondrosarcoma,D002813,D8_MeSH_XML|disease_mesh_xlsx,True
+245,Chordoma,D002817,D8_MeSH_XML|disease_mesh_xlsx,True
+246,Chorea,D002819,D8_MeSH_XML|disease_mesh_xlsx,True
+247,Chorioamnionitis,D002821,D8_MeSH_XML|disease_mesh_xlsx,True
+248,Choriocarcinoma,D002822,D8_MeSH_XML|disease_mesh_xlsx,True
+249,Chromosome Aberrations,D002869,D8_MeSH_XML|disease_mesh_xlsx,True
+250,Chronic Disease,D002908,D8_MeSH_XML|disease_mesh_xlsx,True
+251,Cicatrix,D002921,D8_MeSH_XML|disease_mesh_xlsx,True
+252,Ciliary Motility Disorders,D002925,D8_MeSH_XML|disease_mesh_xlsx,True
+253,Cleft Lip,D002971,D8_MeSH_XML|disease_mesh_xlsx,True
+254,Cleft Palate,D002972,D8_MeSH_XML|disease_mesh_xlsx,True
+255,Cleidocranial Dysplasia,D002973,D8_MeSH_XML|disease_mesh_xlsx,True
+256,Cognition Disorders,D003072,D8_MeSH_XML|disease_mesh_xlsx,True
+257,Solitary Pulmonary Nodule,D003074,D8_MeSH_XML|disease_mesh_xlsx,True
+258,Colitis,D003092,D8_MeSH_XML|disease_mesh_xlsx,True
+259,"Colitis, Ulcerative",D003093,D8_MeSH_XML|disease_mesh_xlsx,True
+260,Collagen Diseases,D003095,D8_MeSH_XML|disease_mesh_xlsx,True
+261,Colonic Diseases,D003108,D8_MeSH_XML|disease_mesh_xlsx,True
+262,Colonic Neoplasms,D003110,D8_MeSH_XML|disease_mesh_xlsx,True
+263,Colonic Polyps,D003111,D8_MeSH_XML|disease_mesh_xlsx,True
+264,"Colorectal Neoplasms, Hereditary Nonpolyposis",D003123,D8_MeSH_XML|disease_mesh_xlsx,True
+265,Condylomata Acuminata,D003218,D8_MeSH_XML|disease_mesh_xlsx,True
+266,Conjunctival Diseases,D003229,D8_MeSH_XML|disease_mesh_xlsx,True
+267,"Conjunctivitis, Allergic",D003233,D8_MeSH_XML|disease_mesh_xlsx,True
+268,Constipation,D003248,D8_MeSH_XML|disease_mesh_xlsx,True
+269,"Constriction, Pathologic",D003251,D8_MeSH_XML|disease_mesh_xlsx,True
+270,"Seizures, Febrile",D003294,D8_MeSH_XML|disease_mesh_xlsx,True
+271,Corneal Diseases,D003316,D8_MeSH_XML|disease_mesh_xlsx,True
+272,Corneal Ulcer,D003320,D8_MeSH_XML|disease_mesh_xlsx,True
+273,Coronary Aneurysm,D003323,D8_MeSH_XML|disease_mesh_xlsx,True
+274,Coronary Artery Disease,D003324,D8_MeSH_XML|disease_mesh_xlsx,True
+275,Coronary Disease,D003327,D8_MeSH_XML|disease_mesh_xlsx,True
+276,Coxsackievirus Infections,D003384,D8_MeSH_XML|disease_mesh_xlsx,True
+277,Craniosynostoses,D003398,D8_MeSH_XML|disease_mesh_xlsx,True
+278,Congenital Hypothyroidism,D003409,D8_MeSH_XML|disease_mesh_xlsx,True
+279,Crohn Disease,D003424,D8_MeSH_XML|disease_mesh_xlsx,True
+280,Cryptococcosis,D003453,D8_MeSH_XML|disease_mesh_xlsx,True
+281,Cryptorchidism,D003456,D8_MeSH_XML|disease_mesh_xlsx,True
+282,Cushing Syndrome,D003480,D8_MeSH_XML|disease_mesh_xlsx,True
+283,"Carcinoma, Adenoid Cystic",D003528,D8_MeSH_XML|disease_mesh_xlsx,True
+284,Cystic Fibrosis,D003550,D8_MeSH_XML|disease_mesh_xlsx,True
+285,Cystitis,D003556,D8_MeSH_XML|disease_mesh_xlsx,True
+286,Phyllodes Tumor,D003557,D8_MeSH_XML|disease_mesh_xlsx,True
+287,Cysts,D003560,D8_MeSH_XML|disease_mesh_xlsx,True
+288,Cytomegalovirus Infections,D003586,D8_MeSH_XML|disease_mesh_xlsx,True
+289,Dacryocystitis,D003607,D8_MeSH_XML|disease_mesh_xlsx,True
+290,De Lange Syndrome,D003635,D8_MeSH_XML|disease_mesh_xlsx,True
+291,"Hearing Loss, Sudden",D003639,D8_MeSH_XML|disease_mesh_xlsx,True
+292,Death,D003643,D8_MeSH_XML|disease_mesh_xlsx,True
+293,Deficiency Diseases,D003677,D8_MeSH_XML|disease_mesh_xlsx,True
+294,Deglutition Disorders,D003680,D8_MeSH_XML|disease_mesh_xlsx,True
+295,Dehydration,D003681,D8_MeSH_XML|disease_mesh_xlsx,True
+296,Dementia,D003704,D8_MeSH_XML|disease_mesh_xlsx,True
+297,Demyelinating Diseases,D003711,D8_MeSH_XML|disease_mesh_xlsx,True
+298,Dengue,D003715,D8_MeSH_XML|disease_mesh_xlsx,True
+299,Dental Caries,D003731,D8_MeSH_XML|disease_mesh_xlsx,True
+300,Dentin Dysplasia,D003805,D8_MeSH_XML|disease_mesh_xlsx,True
+301,Depression,D003863,D8_MeSH_XML|disease_mesh_xlsx,True
+302,"Depressive Disorder, Major",D003865,D8_MeSH_XML|disease_mesh_xlsx,True
+303,Depressive Disorder,D003866,D8_MeSH_XML|disease_mesh_xlsx,True
+304,Dermatitis,D003872,D8_MeSH_XML|disease_mesh_xlsx,True
+305,Dermatitis Herpetiformis,D003874,D8_MeSH_XML|disease_mesh_xlsx,True
+306,"Dermatitis, Atopic",D003876,D8_MeSH_XML|disease_mesh_xlsx,True
+307,Dermatomyositis,D003882,D8_MeSH_XML|disease_mesh_xlsx,True
+308,Diabetes Mellitus,D003920,D8_MeSH_XML|disease_mesh_xlsx,True
+309,"Diabetes Mellitus, Experimental",D003921,D8_MeSH_XML|disease_mesh_xlsx,True
+310,"Diabetes Mellitus, Type 1",D003922,D8_MeSH_XML|disease_mesh_xlsx,True
+311,"Diabetes Mellitus, Type 2",D003924,D8_MeSH_XML|disease_mesh_xlsx,True
+312,Diabetic Angiopathies,D003925,D8_MeSH_XML|disease_mesh_xlsx,True
+313,Diabetic Nephropathies,D003928,D8_MeSH_XML|disease_mesh_xlsx,True
+314,Diabetic Neuropathies,D003929,D8_MeSH_XML|disease_mesh_xlsx,True
+315,Diabetic Retinopathy,D003930,D8_MeSH_XML|disease_mesh_xlsx,True
+316,DiGeorge Syndrome,D004062,D8_MeSH_XML|disease_mesh_xlsx,True
+317,Digestive System Diseases,D004066,D8_MeSH_XML|disease_mesh_xlsx,True
+318,Digestive System Neoplasms,D004067,D8_MeSH_XML|disease_mesh_xlsx,True
+319,Disease,D004194,D8_MeSH_XML|disease_mesh_xlsx,True
+320,Disseminated Intravascular Coagulation,D004211,D8_MeSH_XML|disease_mesh_xlsx,True
+321,Double Outlet Right Ventricle,D004310,D8_MeSH_XML|disease_mesh_xlsx,True
+322,Down Syndrome,D004314,D8_MeSH_XML|disease_mesh_xlsx,True
+323,Drug Hypersensitivity,D004342,D8_MeSH_XML|disease_mesh_xlsx,True
+324,Duane Retraction Syndrome,D004370,D8_MeSH_XML|disease_mesh_xlsx,True
+325,Duodenal Ulcer,D004381,D8_MeSH_XML|disease_mesh_xlsx,True
+326,Dwarfism,D004392,D8_MeSH_XML|disease_mesh_xlsx,True
+327,"Dwarfism, Pituitary",D004393,D8_MeSH_XML|disease_mesh_xlsx,True
+328,"Dysautonomia, Familial",D004402,D8_MeSH_XML|disease_mesh_xlsx,True
+329,Dysentery,D004403,D8_MeSH_XML|disease_mesh_xlsx,True
+330,"Dysentery, Bacillary",D004405,D8_MeSH_XML|disease_mesh_xlsx,True
+331,Dyspepsia,D004415,D8_MeSH_XML|disease_mesh_xlsx,True
+332,Ear Diseases,D004427,D8_MeSH_XML|disease_mesh_xlsx,True
+333,Echinococcosis,D004443,D8_MeSH_XML|disease_mesh_xlsx,True
+334,"Echinococcosis, Hepatic",D004444,D8_MeSH_XML|disease_mesh_xlsx,True
+335,Eclampsia,D004461,D8_MeSH_XML|disease_mesh_xlsx,True
+336,Edema,D004487,D8_MeSH_XML|disease_mesh_xlsx,True
+337,Ehlers-Danlos Syndrome,D004535,D8_MeSH_XML|disease_mesh_xlsx,True
+338,Elephantiasis,D004604,D8_MeSH_XML|disease_mesh_xlsx,True
+339,Emphysema,D004646,D8_MeSH_XML|disease_mesh_xlsx,True
+340,Encephalitis,D004660,D8_MeSH_XML|disease_mesh_xlsx,True
+341,"Encephalitis Virus, Japanese",D004664,D8_MeSH_XML|disease_mesh_xlsx,True
+342,"Encephalitis, Japanese",D004672,D8_MeSH_XML|disease_mesh_xlsx,True
+343,"Encephalomyelitis, Acute Disseminated",D004673,D8_MeSH_XML|disease_mesh_xlsx,True
+344,"Encephalitis, Tick-Borne",D004675,D8_MeSH_XML|disease_mesh_xlsx,True
+345,Encephalocele,D004677,D8_MeSH_XML|disease_mesh_xlsx,True
+346,"Encephalomyelitis, Autoimmune, Experimental",D004681,D8_MeSH_XML|disease_mesh_xlsx,True
+347,"Encephalomyelitis, Enzootic Porcine",D004682,D8_MeSH_XML|disease_mesh_xlsx,True
+348,Endocrine System Diseases,D004700,D8_MeSH_XML|disease_mesh_xlsx,True
+349,Endometrial Hyperplasia,D004714,D8_MeSH_XML|disease_mesh_xlsx,True
+350,Endometriosis,D004715,D8_MeSH_XML|disease_mesh_xlsx,True
+351,Endometritis,D004716,D8_MeSH_XML|disease_mesh_xlsx,True
+352,Endomyocardial Fibrosis,D004719,D8_MeSH_XML|disease_mesh_xlsx,True
+353,Enterocolitis,D004760,D8_MeSH_XML|disease_mesh_xlsx,True
+354,"Enterocolitis, Pseudomembranous",D004761,D8_MeSH_XML|disease_mesh_xlsx,True
+355,Enterovirus Infections,D004769,D8_MeSH_XML|disease_mesh_xlsx,True
+356,Ependymoma,D004806,D8_MeSH_XML|disease_mesh_xlsx,True
+357,Epidermodysplasia Verruciformis,D004819,D8_MeSH_XML|disease_mesh_xlsx,True
+358,Epilepsy,D004827,D8_MeSH_XML|disease_mesh_xlsx,True
+359,"Epilepsies, Partial",D004828,D8_MeSH_XML|disease_mesh_xlsx,True
+360,"Epilepsy, Generalized",D004829,D8_MeSH_XML|disease_mesh_xlsx,True
+361,"Epilepsy, Temporal Lobe",D004833,D8_MeSH_XML|disease_mesh_xlsx,True
+362,"Epilepsy, Post-Traumatic",D004834,D8_MeSH_XML|disease_mesh_xlsx,True
+363,Equine Infectious Anemia,D004859,D8_MeSH_XML|disease_mesh_xlsx,True
+364,Erythema,D004890,D8_MeSH_XML|disease_mesh_xlsx,True
+365,Erythema Multiforme,D004892,D8_MeSH_XML|disease_mesh_xlsx,True
+366,"Erythroblastosis, Fetal",D004899,D8_MeSH_XML|disease_mesh_xlsx,True
+367,Esophageal Achalasia,D004931,D8_MeSH_XML|disease_mesh_xlsx,True
+368,Esophageal Atresia,D004933,D8_MeSH_XML|disease_mesh_xlsx,True
+369,Esophageal Diseases,D004935,D8_MeSH_XML|disease_mesh_xlsx,True
+370,Esophageal Neoplasms,D004938,D8_MeSH_XML|disease_mesh_xlsx,True
+371,Eunuchism,D005058,D8_MeSH_XML|disease_mesh_xlsx,True
+372,Exanthema,D005076,D8_MeSH_XML|disease_mesh_xlsx,True
+373,Exostoses,D005096,D8_MeSH_XML|disease_mesh_xlsx,True
+374,"Cardiac Complexes, Premature",D005117,D8_MeSH_XML|disease_mesh_xlsx,True
+375,Eye Diseases,D005128,D8_MeSH_XML|disease_mesh_xlsx,True
+376,Facial Nerve Diseases,D005155,D8_MeSH_XML|disease_mesh_xlsx,True
+377,Fanconi Anemia,D005199,D8_MeSH_XML|disease_mesh_xlsx,True
+378,Fatigue,D005221,D8_MeSH_XML|disease_mesh_xlsx,True
+379,Fatty Liver,D005234,D8_MeSH_XML|disease_mesh_xlsx,True
+380,"Fatty Liver, Alcoholic",D005235,D8_MeSH_XML|disease_mesh_xlsx,True
+381,Femoral Fractures,D005264,D8_MeSH_XML|disease_mesh_xlsx,True
+382,Femoral Neck Fractures,D005265,D8_MeSH_XML|disease_mesh_xlsx,True
+383,Femur Head Necrosis,D005271,D8_MeSH_XML|disease_mesh_xlsx,True
+384,Fetal Hypoxia,D005311,D8_MeSH_XML|disease_mesh_xlsx,True
+385,Fetal Growth Retardation,D005317,D8_MeSH_XML|disease_mesh_xlsx,True
+386,Fetal Macrosomia,D005320,D8_MeSH_XML|disease_mesh_xlsx,True
+387,"Fetal Membranes, Premature Rupture",D005322,D8_MeSH_XML|disease_mesh_xlsx,True
+388,Fever,D005334,D8_MeSH_XML|disease_mesh_xlsx,True
+389,Fibrosarcoma,D005354,D8_MeSH_XML|disease_mesh_xlsx,True
+390,Fibrosis,D005355,D8_MeSH_XML|disease_mesh_xlsx,True
+391,Fibromyalgia,D005356,D8_MeSH_XML|disease_mesh_xlsx,True
+392,"Fibrous Dysplasia, Polyostotic",D005359,D8_MeSH_XML|disease_mesh_xlsx,True
+393,Fluoride Poisoning,D005458,D8_MeSH_XML|disease_mesh_xlsx,True
+394,Focal Infection,D005490,D8_MeSH_XML|disease_mesh_xlsx,True
+395,Folic Acid Deficiency,D005494,D8_MeSH_XML|disease_mesh_xlsx,True
+396,Follicular Atresia,D005496,D8_MeSH_XML|disease_mesh_xlsx,True
+397,Food Hypersensitivity,D005512,D8_MeSH_XML|disease_mesh_xlsx,True
+398,Foot-and-Mouth Disease,D005536,D8_MeSH_XML|disease_mesh_xlsx,True
+399,Influenza in Birds,D005585,D8_MeSH_XML|disease_mesh_xlsx,True
+400,Fragile X Syndrome,D005600,D8_MeSH_XML|disease_mesh_xlsx,True
+401,Friedreich Ataxia,D005621,D8_MeSH_XML|disease_mesh_xlsx,True
+402,Fused Teeth,D005671,D8_MeSH_XML|disease_mesh_xlsx,True
+403,Gallbladder Diseases,D005705,D8_MeSH_XML|disease_mesh_xlsx,True
+404,Gallbladder Neoplasms,D005706,D8_MeSH_XML|disease_mesh_xlsx,True
+405,Gastritis,D005756,D8_MeSH_XML|disease_mesh_xlsx,True
+406,"Gastritis, Atrophic",D005757,D8_MeSH_XML|disease_mesh_xlsx,True
+407,"Gastritis, Hypertrophic",D005758,D8_MeSH_XML|disease_mesh_xlsx,True
+408,"Gastroenteritis, Transmissible, of Swine",D005761,D8_MeSH_XML|disease_mesh_xlsx,True
+409,Gastrointestinal Diseases,D005767,D8_MeSH_XML|disease_mesh_xlsx,True
+410,Gastrointestinal Neoplasms,D005770,D8_MeSH_XML|disease_mesh_xlsx,True
+411,Gaucher Disease,D005776,D8_MeSH_XML|disease_mesh_xlsx,True
+412,"Genital Diseases, Female",D005831,D8_MeSH_XML|disease_mesh_xlsx,True
+413,"Genital Diseases, Male",D005832,D8_MeSH_XML|disease_mesh_xlsx,True
+414,"Genital Neoplasms, Female",D005833,D8_MeSH_XML|disease_mesh_xlsx,True
+415,Tourette Syndrome,D005879,D8_MeSH_XML|disease_mesh_xlsx,True
+416,Gingivitis,D005891,D8_MeSH_XML|disease_mesh_xlsx,True
+417,Glaucoma,D005901,D8_MeSH_XML|disease_mesh_xlsx,True
+418,"Glaucoma, Open-Angle",D005902,D8_MeSH_XML|disease_mesh_xlsx,True
+419,Glioblastoma,D005909,D8_MeSH_XML|disease_mesh_xlsx,True
+420,Glioma,D005910,D8_MeSH_XML|disease_mesh_xlsx,True
+421,Gliosis,D005911,D8_MeSH_XML|disease_mesh_xlsx,True
+422,Glomus Tumor,D005918,D8_MeSH_XML|disease_mesh_xlsx,True
+423,"Glomerulonephritis, IGA",D005922,D8_MeSH_XML|disease_mesh_xlsx,True
+424,Glycogen Storage Disease Type VI,D006013,D8_MeSH_XML|disease_mesh_xlsx,True
+425,Goiter,D006042,D8_MeSH_XML|disease_mesh_xlsx,True
+426,Gout,D006073,D8_MeSH_XML|disease_mesh_xlsx,True
+427,"Graft Occlusion, Vascular",D006083,D8_MeSH_XML|disease_mesh_xlsx,True
+428,Graft vs Host Disease,D006086,D8_MeSH_XML|disease_mesh_xlsx,True
+429,Granuloma,D006099,D8_MeSH_XML|disease_mesh_xlsx,True
+430,"Granulomatous Disease, Chronic",D006105,D8_MeSH_XML|disease_mesh_xlsx,True
+431,Granulosa Cell Tumor,D006106,D8_MeSH_XML|disease_mesh_xlsx,True
+432,Graves Disease,D006111,D8_MeSH_XML|disease_mesh_xlsx,True
+433,Growth Disorders,D006130,D8_MeSH_XML|disease_mesh_xlsx,True
+434,Gynatresia,D006175,D8_MeSH_XML|disease_mesh_xlsx,True
+435,Hallux Valgus,D006215,D8_MeSH_XML|disease_mesh_xlsx,True
+436,"Hamartoma Syndrome, Multiple",D006223,D8_MeSH_XML|disease_mesh_xlsx,True
+437,"Hand, Foot and Mouth Disease",D006232,D8_MeSH_XML|disease_mesh_xlsx,True
+438,"Rhinitis, Allergic, Seasonal",D006255,D8_MeSH_XML|disease_mesh_xlsx,True
+439,Head and Neck Neoplasms,D006258,D8_MeSH_XML|disease_mesh_xlsx,True
+440,Craniocerebral Trauma,D006259,D8_MeSH_XML|disease_mesh_xlsx,True
+441,Hearing Disorders,D006311,D8_MeSH_XML|disease_mesh_xlsx,True
+442,"Hearing Loss, Noise-Induced",D006317,D8_MeSH_XML|disease_mesh_xlsx,True
+443,"Hearing Loss, Sensorineural",D006319,D8_MeSH_XML|disease_mesh_xlsx,True
+444,Heart Arrest,D006323,D8_MeSH_XML|disease_mesh_xlsx,True
+445,"Heart Defects, Congenital",D006330,D8_MeSH_XML|disease_mesh_xlsx,True
+446,Heart Diseases,D006331,D8_MeSH_XML|disease_mesh_xlsx,True
+447,Cardiomegaly,D006332,D8_MeSH_XML|disease_mesh_xlsx,True
+448,Heart Failure,D006333,D8_MeSH_XML|disease_mesh_xlsx,True
+449,Heart Injuries,D006335,D8_MeSH_XML|disease_mesh_xlsx,True
+450,Heart Neoplasms,D006338,D8_MeSH_XML|disease_mesh_xlsx,True
+451,"Heart Septal Defects, Ventricular",D006345,D8_MeSH_XML|disease_mesh_xlsx,True
+452,Heart Valve Diseases,D006349,D8_MeSH_XML|disease_mesh_xlsx,True
+453,Hemangioma,D006391,D8_MeSH_XML|disease_mesh_xlsx,True
+454,"Hemangioma, Cavernous",D006392,D8_MeSH_XML|disease_mesh_xlsx,True
+455,Hemangiosarcoma,D006394,D8_MeSH_XML|disease_mesh_xlsx,True
+456,Hematologic Diseases,D006402,D8_MeSH_XML|disease_mesh_xlsx,True
+457,Hemochromatosis,D006432,D8_MeSH_XML|disease_mesh_xlsx,True
+458,Hemoglobin SC Disease,D006450,D8_MeSH_XML|disease_mesh_xlsx,True
+459,Hemoglobinopathies,D006453,D8_MeSH_XML|disease_mesh_xlsx,True
+460,"Hemoglobinuria, Paroxysmal",D006457,D8_MeSH_XML|disease_mesh_xlsx,True
+461,Hemolysis,D006461,D8_MeSH_XML|disease_mesh_xlsx,True
+462,Hemophilia A,D006467,D8_MeSH_XML|disease_mesh_xlsx,True
+463,Hemorrhage,D006470,D8_MeSH_XML|disease_mesh_xlsx,True
+464,Gastrointestinal Hemorrhage,D006471,D8_MeSH_XML|disease_mesh_xlsx,True
+465,Hemorrhagic Fever with Renal Syndrome,D006480,D8_MeSH_XML|disease_mesh_xlsx,True
+466,Hemorrhoids,D006484,D8_MeSH_XML|disease_mesh_xlsx,True
+467,Budd-Chiari Syndrome,D006502,D8_MeSH_XML|disease_mesh_xlsx,True
+468,Hepatic Veno-Occlusive Disease,D006504,D8_MeSH_XML|disease_mesh_xlsx,True
+469,Hepatitis,D006505,D8_MeSH_XML|disease_mesh_xlsx,True
+470,Hepatitis A,D006506,D8_MeSH_XML|disease_mesh_xlsx,True
+471,Hepatitis B,D006509,D8_MeSH_XML|disease_mesh_xlsx,True
+472,"Hepatitis, Alcoholic",D006519,D8_MeSH_XML|disease_mesh_xlsx,True
+473,"Hepatitis, Chronic",D006521,D8_MeSH_XML|disease_mesh_xlsx,True
+474,Hepatitis C,D006526,D8_MeSH_XML|disease_mesh_xlsx,True
+475,Hepatolenticular Degeneration,D006527,D8_MeSH_XML|disease_mesh_xlsx,True
+476,"Carcinoma, Hepatocellular",D006528,D8_MeSH_XML|disease_mesh_xlsx,True
+477,Hepatorenal Syndrome,D006530,D8_MeSH_XML|disease_mesh_xlsx,True
+478,Hernia,D006547,D8_MeSH_XML|disease_mesh_xlsx,True
+479,Heroin Dependence,D006556,D8_MeSH_XML|disease_mesh_xlsx,True
+480,Herpes Simplex,D006561,D8_MeSH_XML|disease_mesh_xlsx,True
+481,Herpesviridae Infections,D006566,D8_MeSH_XML|disease_mesh_xlsx,True
+482,High Pressure Neurological Syndrome,D006610,D8_MeSH_XML|disease_mesh_xlsx,True
+483,"Hip Dislocation, Congenital",D006618,D8_MeSH_XML|disease_mesh_xlsx,True
+484,Hip Fractures,D006620,D8_MeSH_XML|disease_mesh_xlsx,True
+485,von Hippel-Lindau Disease,D006623,D8_MeSH_XML|disease_mesh_xlsx,True
+486,Hirschsprung Disease,D006627,D8_MeSH_XML|disease_mesh_xlsx,True
+487,Hodgkin Disease,D006689,D8_MeSH_XML|disease_mesh_xlsx,True
+488,Classical Swine Fever,D006691,D8_MeSH_XML|disease_mesh_xlsx,True
+489,Deltaretrovirus Infections,D006800,D8_MeSH_XML|disease_mesh_xlsx,True
+490,Humeral Fractures,D006810,D8_MeSH_XML|disease_mesh_xlsx,True
+491,Huntington Disease,D006816,D8_MeSH_XML|disease_mesh_xlsx,True
+492,Hydatidiform Mole,D006828,D8_MeSH_XML|disease_mesh_xlsx,True
+493,Hydrocephalus,D006849,D8_MeSH_XML|disease_mesh_xlsx,True
+494,Hyperaldosteronism,D006929,D8_MeSH_XML|disease_mesh_xlsx,True
+495,Hyperalgesia,D006930,D8_MeSH_XML|disease_mesh_xlsx,True
+496,Hypercholesterolemia,D006937,D8_MeSH_XML|disease_mesh_xlsx,True
+497,Hyperlipoproteinemia Type II,D006938,D8_MeSH_XML|disease_mesh_xlsx,True
+498,Hyperemia,D006940,D8_MeSH_XML|disease_mesh_xlsx,True
+499,Hyperglycemia,D006943,D8_MeSH_XML|disease_mesh_xlsx,True
+500,Hyperinsulinism,D006946,D8_MeSH_XML|disease_mesh_xlsx,True
+501,Hyperkalemia,D006947,D8_MeSH_XML|disease_mesh_xlsx,True
+502,Hyperlipidemias,D006949,D8_MeSH_XML|disease_mesh_xlsx,True
+503,Hyperlipoproteinemia Type III,D006952,D8_MeSH_XML|disease_mesh_xlsx,True
+504,Hyperoxaluria,D006959,D8_MeSH_XML|disease_mesh_xlsx,True
+505,"Hyperoxaluria, Primary",D006960,D8_MeSH_XML|disease_mesh_xlsx,True
+506,Hyperphagia,D006963,D8_MeSH_XML|disease_mesh_xlsx,True
+507,Hyperplasia,D006965,D8_MeSH_XML|disease_mesh_xlsx,True
+508,Hypersensitivity,D006967,D8_MeSH_XML|disease_mesh_xlsx,True
+509,"Hypersensitivity, Immediate",D006969,D8_MeSH_XML|disease_mesh_xlsx,True
+510,Disorders of Excessive Somnolence,D006970,D8_MeSH_XML|disease_mesh_xlsx,True
+511,Hypertension,D006973,D8_MeSH_XML|disease_mesh_xlsx,True
+512,"Hypertension, Portal",D006975,D8_MeSH_XML|disease_mesh_xlsx,True
+513,"Hypertension, Pulmonary",D006976,D8_MeSH_XML|disease_mesh_xlsx,True
+514,"Hypertension, Renal",D006977,D8_MeSH_XML|disease_mesh_xlsx,True
+515,Hypertrophy,D006984,D8_MeSH_XML|disease_mesh_xlsx,True
+516,Hyphema,D006988,D8_MeSH_XML|disease_mesh_xlsx,True
+517,Hypoglycemia,D007003,D8_MeSH_XML|disease_mesh_xlsx,True
+518,Hypogonadism,D007006,D8_MeSH_XML|disease_mesh_xlsx,True
+519,Hypopharyngeal Neoplasms,D007012,D8_MeSH_XML|disease_mesh_xlsx,True
+520,Hypospadias,D007021,D8_MeSH_XML|disease_mesh_xlsx,True
+521,Hypotension,D007022,D8_MeSH_XML|disease_mesh_xlsx,True
+522,Hypothyroidism,D007037,D8_MeSH_XML|disease_mesh_xlsx,True
+523,Ileal Neoplasms,D007078,D8_MeSH_XML|disease_mesh_xlsx,True
+524,Immunologic Deficiency Syndromes,D007153,D8_MeSH_XML|disease_mesh_xlsx,True
+525,Immune System Diseases,D007154,D8_MeSH_XML|disease_mesh_xlsx,True
+526,Immunosuppression Therapy,D007165,D8_MeSH_XML|disease_mesh_xlsx,True
+527,Erectile Dysfunction,D007172,D8_MeSH_XML|disease_mesh_xlsx,True
+528,Incontinentia Pigmenti,D007184,D8_MeSH_XML|disease_mesh_xlsx,True
+529,Infant Nutrition Disorders,D007228,D8_MeSH_XML|disease_mesh_xlsx,True
+530,"Infant, Low Birth Weight",D007230,D8_MeSH_XML|disease_mesh_xlsx,True
+531,"Infant, Newborn, Diseases",D007232,D8_MeSH_XML|disease_mesh_xlsx,True
+532,"Infant, Small for Gestational Age",D007236,D8_MeSH_XML|disease_mesh_xlsx,True
+533,Infarction,D007238,D8_MeSH_XML|disease_mesh_xlsx,True
+534,Infections,D007239,D8_MeSH_XML|disease_mesh_xlsx,True
+535,Infectious Mononucleosis,D007244,D8_MeSH_XML|disease_mesh_xlsx,True
+536,Infertility,D007246,D8_MeSH_XML|disease_mesh_xlsx,True
+537,"Infertility, Female",D007247,D8_MeSH_XML|disease_mesh_xlsx,True
+538,"Infertility, Male",D007248,D8_MeSH_XML|disease_mesh_xlsx,True
+539,Inflammation,D007249,D8_MeSH_XML|disease_mesh_xlsx,True
+540,"Influenza, Human",D007251,D8_MeSH_XML|disease_mesh_xlsx,True
+541,Sleep Initiation and Maintenance Disorders,D007319,D8_MeSH_XML|disease_mesh_xlsx,True
+542,Insulin Resistance,D007333,D8_MeSH_XML|disease_mesh_xlsx,True
+543,Insulinoma,D007340,D8_MeSH_XML|disease_mesh_xlsx,True
+544,Intermittent Claudication,D007383,D8_MeSH_XML|disease_mesh_xlsx,True
+545,Intestinal Atresia,D007409,D8_MeSH_XML|disease_mesh_xlsx,True
+546,Intestinal Diseases,D007410,D8_MeSH_XML|disease_mesh_xlsx,True
+547,Intestinal Fistula,D007412,D8_MeSH_XML|disease_mesh_xlsx,True
+548,Intestinal Neoplasms,D007414,D8_MeSH_XML|disease_mesh_xlsx,True
+549,Iris Diseases,D007499,D8_MeSH_XML|disease_mesh_xlsx,True
+550,Ischemia,D007511,D8_MeSH_XML|disease_mesh_xlsx,True
+551,"Adenoma, Islet Cell",D007516,D8_MeSH_XML|disease_mesh_xlsx,True
+552,Kartagener Syndrome,D007619,D8_MeSH_XML|disease_mesh_xlsx,True
+553,Keloid,D007627,D8_MeSH_XML|disease_mesh_xlsx,True
+554,Keratitis,D007634,D8_MeSH_XML|disease_mesh_xlsx,True
+555,Keratoconus,D007640,D8_MeSH_XML|disease_mesh_xlsx,True
+556,Darier Disease,D007644,D8_MeSH_XML|disease_mesh_xlsx,True
+557,Kidney Calculi,D007669,D8_MeSH_XML|disease_mesh_xlsx,True
+558,Kidney Cortex Necrosis,D007673,D8_MeSH_XML|disease_mesh_xlsx,True
+559,Kidney Diseases,D007674,D8_MeSH_XML|disease_mesh_xlsx,True
+560,"Kidney Failure, Chronic",D007676,D8_MeSH_XML|disease_mesh_xlsx,True
+561,Kidney Neoplasms,D007680,D8_MeSH_XML|disease_mesh_xlsx,True
+562,Polycystic Kidney Diseases,D007690,D8_MeSH_XML|disease_mesh_xlsx,True
+563,"Obstetric Labor, Premature",D007752,D8_MeSH_XML|disease_mesh_xlsx,True
+564,Labyrinth Diseases,D007759,D8_MeSH_XML|disease_mesh_xlsx,True
+565,"Larva Migrans, Visceral",D007816,D8_MeSH_XML|disease_mesh_xlsx,True
+566,Laryngeal Neoplasms,D007822,D8_MeSH_XML|disease_mesh_xlsx,True
+567,Learning Disabilities,D007859,D8_MeSH_XML|disease_mesh_xlsx,True
+568,Leg Ulcer,D007871,D8_MeSH_XML|disease_mesh_xlsx,True
+569,Legg-Calve-Perthes Disease,D007873,D8_MeSH_XML|disease_mesh_xlsx,True
+570,Leigh Disease,D007888,D8_MeSH_XML|disease_mesh_xlsx,True
+571,Leiomyoma,D007889,D8_MeSH_XML|disease_mesh_xlsx,True
+572,Leiomyosarcoma,D007890,D8_MeSH_XML|disease_mesh_xlsx,True
+573,Leishmaniasis,D007896,D8_MeSH_XML|disease_mesh_xlsx,True
+574,"Leishmaniasis, Visceral",D007898,D8_MeSH_XML|disease_mesh_xlsx,True
+575,Leprosy,D007918,D8_MeSH_XML|disease_mesh_xlsx,True
+576,Lesch-Nyhan Syndrome,D007926,D8_MeSH_XML|disease_mesh_xlsx,True
+577,Leukemia,D007938,D8_MeSH_XML|disease_mesh_xlsx,True
+578,"Leukemia, Megakaryoblastic, Acute",D007947,D8_MeSH_XML|disease_mesh_xlsx,True
+579,"Leukemia, Monocytic, Acute",D007948,D8_MeSH_XML|disease_mesh_xlsx,True
+580,"Leukemia, Myeloid",D007951,D8_MeSH_XML|disease_mesh_xlsx,True
+581,"Leukoencephalopathy, Progressive Multifocal",D007968,D8_MeSH_XML|disease_mesh_xlsx,True
+582,"Leukoplakia, Oral",D007972,D8_MeSH_XML|disease_mesh_xlsx,True
+583,Lip Neoplasms,D008048,D8_MeSH_XML|disease_mesh_xlsx,True
+584,Lipodystrophy,D008060,D8_MeSH_XML|disease_mesh_xlsx,True
+585,Lipidoses,D008064,D8_MeSH_XML|disease_mesh_xlsx,True
+586,Lipoma,D008067,D8_MeSH_XML|disease_mesh_xlsx,True
+587,Liposarcoma,D008080,D8_MeSH_XML|disease_mesh_xlsx,True
+588,Liver Cirrhosis,D008103,D8_MeSH_XML|disease_mesh_xlsx,True
+589,"Liver Cirrhosis, Alcoholic",D008104,D8_MeSH_XML|disease_mesh_xlsx,True
+590,Liver Diseases,D008107,D8_MeSH_XML|disease_mesh_xlsx,True
+591,"Liver Diseases, Alcoholic",D008108,D8_MeSH_XML|disease_mesh_xlsx,True
+592,Liver Neoplasms,D008113,D8_MeSH_XML|disease_mesh_xlsx,True
+593,Lung Abscess,D008169,D8_MeSH_XML|disease_mesh_xlsx,True
+594,Lung Diseases,D008171,D8_MeSH_XML|disease_mesh_xlsx,True
+595,Lung Neoplasms,D008175,D8_MeSH_XML|disease_mesh_xlsx,True
+596,"Lupus Erythematosus, Cutaneous",D008178,D8_MeSH_XML|disease_mesh_xlsx,True
+597,"Lupus Erythematosus, Systemic",D008180,D8_MeSH_XML|disease_mesh_xlsx,True
+598,Lupus Nephritis,D008181,D8_MeSH_XML|disease_mesh_xlsx,True
+599,Lyme Disease,D008193,D8_MeSH_XML|disease_mesh_xlsx,True
+600,Lymphatic Diseases,D008206,D8_MeSH_XML|disease_mesh_xlsx,True
+601,Lymphatic Metastasis,D008207,D8_MeSH_XML|disease_mesh_xlsx,True
+602,Lymphoma,D008223,D8_MeSH_XML|disease_mesh_xlsx,True
+603,"Lymphoma, Non-Hodgkin",D008228,D8_MeSH_XML|disease_mesh_xlsx,True
+604,Lymphopenia,D008231,D8_MeSH_XML|disease_mesh_xlsx,True
+605,Lymphoproliferative Disorders,D008232,D8_MeSH_XML|disease_mesh_xlsx,True
+606,Macular Degeneration,D008268,D8_MeSH_XML|disease_mesh_xlsx,True
+607,Macular Edema,D008269,D8_MeSH_XML|disease_mesh_xlsx,True
+608,Malaria,D008288,D8_MeSH_XML|disease_mesh_xlsx,True
+609,Mandibular Diseases,D008336,D8_MeSH_XML|disease_mesh_xlsx,True
+610,Mandibulofacial Dysostosis,D008342,D8_MeSH_XML|disease_mesh_xlsx,True
+611,Marek Disease,D008380,D8_MeSH_XML|disease_mesh_xlsx,True
+612,Marfan Syndrome,D008382,D8_MeSH_XML|disease_mesh_xlsx,True
+613,Mastitis,D008413,D8_MeSH_XML|disease_mesh_xlsx,True
+614,"Mastitis, Bovine",D008414,D8_MeSH_XML|disease_mesh_xlsx,True
+615,Maxillary Fractures,D008440,D8_MeSH_XML|disease_mesh_xlsx,True
+616,Maxillary Sinus Neoplasms,D008444,D8_MeSH_XML|disease_mesh_xlsx,True
+617,Medulloblastoma,D008527,D8_MeSH_XML|disease_mesh_xlsx,True
+618,Melanoma,D008545,D8_MeSH_XML|disease_mesh_xlsx,True
+619,"Melanoma, Experimental",D008546,D8_MeSH_XML|disease_mesh_xlsx,True
+620,Memory Disorders,D008569,D8_MeSH_XML|disease_mesh_xlsx,True
+621,Meniere Disease,D008575,D8_MeSH_XML|disease_mesh_xlsx,True
+622,Meningioma,D008579,D8_MeSH_XML|disease_mesh_xlsx,True
+623,Intellectual Disability,D008607,D8_MeSH_XML|disease_mesh_xlsx,True
+624,Mesothelioma,D008654,D8_MeSH_XML|disease_mesh_xlsx,True
+625,Metabolic Diseases,D008659,D8_MeSH_XML|disease_mesh_xlsx,True
+626,Microphthalmos,D008850,D8_MeSH_XML|disease_mesh_xlsx,True
+627,Migraine Disorders,D008881,D8_MeSH_XML|disease_mesh_xlsx,True
+628,Miliaria,D008883,D8_MeSH_XML|disease_mesh_xlsx,True
+629,Mite Infestations,D008924,D8_MeSH_XML|disease_mesh_xlsx,True
+630,Mixed Connective Tissue Disease,D008947,D8_MeSH_XML|disease_mesh_xlsx,True
+631,"Adenoma, Pleomorphic",D008949,D8_MeSH_XML|disease_mesh_xlsx,True
+632,Monoclonal Gammopathy of Undetermined Significance,D008998,D8_MeSH_XML|disease_mesh_xlsx,True
+633,Motion Sickness,D009041,D8_MeSH_XML|disease_mesh_xlsx,True
+634,"Fluorosis, Dental",D009050,D8_MeSH_XML|disease_mesh_xlsx,True
+635,Stomatognathic Diseases,D009057,D8_MeSH_XML|disease_mesh_xlsx,True
+636,Mouth Diseases,D009059,D8_MeSH_XML|disease_mesh_xlsx,True
+637,Mouth Neoplasms,D009062,D8_MeSH_XML|disease_mesh_xlsx,True
+638,Moyamoya Disease,D009072,D8_MeSH_XML|disease_mesh_xlsx,True
+639,Mucocutaneous Lymph Node Syndrome,D009080,D8_MeSH_XML|disease_mesh_xlsx,True
+640,Multiple Myeloma,D009101,D8_MeSH_XML|disease_mesh_xlsx,True
+641,Multiple Organ Failure,D009102,D8_MeSH_XML|disease_mesh_xlsx,True
+642,Multiple Sclerosis,D009103,D8_MeSH_XML|disease_mesh_xlsx,True
+643,Multiple Trauma,D009104,D8_MeSH_XML|disease_mesh_xlsx,True
+644,Muscular Atrophy,D009133,D8_MeSH_XML|disease_mesh_xlsx,True
+645,"Muscular Atrophy, Spinal",D009134,D8_MeSH_XML|disease_mesh_xlsx,True
+646,Muscular Diseases,D009135,D8_MeSH_XML|disease_mesh_xlsx,True
+647,Muscular Dystrophies,D009136,D8_MeSH_XML|disease_mesh_xlsx,True
+648,Myasthenia Gravis,D009157,D8_MeSH_XML|disease_mesh_xlsx,True
+649,Mycobacterium Infections,D009164,D8_MeSH_XML|disease_mesh_xlsx,True
+650,"Mycobacterium Infections, Nontuberculous",D009165,D8_MeSH_XML|disease_mesh_xlsx,True
+651,Mycoplasma Infections,D009175,D8_MeSH_XML|disease_mesh_xlsx,True
+652,Mycoses,D009181,D8_MeSH_XML|disease_mesh_xlsx,True
+653,Mycosis Fungoides,D009182,D8_MeSH_XML|disease_mesh_xlsx,True
+654,Myelodysplastic Syndromes,D009190,D8_MeSH_XML|disease_mesh_xlsx,True
+655,Myeloproliferative Disorders,D009196,D8_MeSH_XML|disease_mesh_xlsx,True
+656,Cardiomyopathies,D009202,D8_MeSH_XML|disease_mesh_xlsx,True
+657,Myocardial Infarction,D009203,D8_MeSH_XML|disease_mesh_xlsx,True
+658,Myocarditis,D009205,D8_MeSH_XML|disease_mesh_xlsx,True
+659,Myopia,D009216,D8_MeSH_XML|disease_mesh_xlsx,True
+660,Myositis,D009220,D8_MeSH_XML|disease_mesh_xlsx,True
+661,Myotonic Dystrophy,D009223,D8_MeSH_XML|disease_mesh_xlsx,True
+662,Opioid-Related Disorders,D009293,D8_MeSH_XML|disease_mesh_xlsx,True
+663,Nasal Polyps,D009298,D8_MeSH_XML|disease_mesh_xlsx,True
+664,Nasopharyngeal Neoplasms,D009303,D8_MeSH_XML|disease_mesh_xlsx,True
+665,Nasopharyngitis,D009304,D8_MeSH_XML|disease_mesh_xlsx,True
+666,Necrosis,D009336,D8_MeSH_XML|disease_mesh_xlsx,True
+667,Neoplasm Metastasis,D009362,D8_MeSH_XML|disease_mesh_xlsx,True
+668,Neoplasms,D009369,D8_MeSH_XML|disease_mesh_xlsx,True
+669,Neoplasms by Histologic Type,D009370,D8_MeSH_XML|disease_mesh_xlsx,True
+670,"Neoplasms, Germ Cell and Embryonal",D009373,D8_MeSH_XML|disease_mesh_xlsx,True
+671,"Neoplasms, Glandular and Epithelial",D009375,D8_MeSH_XML|disease_mesh_xlsx,True
+672,"Neoplasms, Hormone-Dependent",D009376,D8_MeSH_XML|disease_mesh_xlsx,True
+673,"Neoplasms, Multiple Primary",D009378,D8_MeSH_XML|disease_mesh_xlsx,True
+674,"Neovascularization, Pathologic",D009389,D8_MeSH_XML|disease_mesh_xlsx,True
+675,Nephritis,D009393,D8_MeSH_XML|disease_mesh_xlsx,True
+676,"Nephritis, Hereditary",D009394,D8_MeSH_XML|disease_mesh_xlsx,True
+677,"Nephritis, Interstitial",D009395,D8_MeSH_XML|disease_mesh_xlsx,True
+678,Wilms Tumor,D009396,D8_MeSH_XML|disease_mesh_xlsx,True
+679,Nephrocalcinosis,D009397,D8_MeSH_XML|disease_mesh_xlsx,True
+680,Nephrosclerosis,D009400,D8_MeSH_XML|disease_mesh_xlsx,True
+681,"Nephrosis, Lipoid",D009402,D8_MeSH_XML|disease_mesh_xlsx,True
+682,Nephrotic Syndrome,D009404,D8_MeSH_XML|disease_mesh_xlsx,True
+683,Nerve Degeneration,D009410,D8_MeSH_XML|disease_mesh_xlsx,True
+684,Nervous System Diseases,D009422,D8_MeSH_XML|disease_mesh_xlsx,True
+685,Nervous System Neoplasms,D009423,D8_MeSH_XML|disease_mesh_xlsx,True
+686,Neural Tube Defects,D009436,D8_MeSH_XML|disease_mesh_xlsx,True
+687,Neuralgia,D009437,D8_MeSH_XML|disease_mesh_xlsx,True
+688,Neurilemmoma,D009442,D8_MeSH_XML|disease_mesh_xlsx,True
+689,Neuroblastoma,D009447,D8_MeSH_XML|disease_mesh_xlsx,True
+690,Neurofibromatosis 1,D009456,D8_MeSH_XML|disease_mesh_xlsx,True
+691,Neuroleptic Malignant Syndrome,D009459,D8_MeSH_XML|disease_mesh_xlsx,True
+692,Neurologic Manifestations,D009461,D8_MeSH_XML|disease_mesh_xlsx,True
+693,"Neuroma, Acoustic",D009464,D8_MeSH_XML|disease_mesh_xlsx,True
+694,Neuromyelitis Optica,D009471,D8_MeSH_XML|disease_mesh_xlsx,True
+695,Neuronal Ceroid-Lipofuscinoses,D009472,D8_MeSH_XML|disease_mesh_xlsx,True
+696,Neurosyphilis,D009494,D8_MeSH_XML|disease_mesh_xlsx,True
+697,Neurotic Disorders,D009497,D8_MeSH_XML|disease_mesh_xlsx,True
+698,Neutropenia,D009503,D8_MeSH_XML|disease_mesh_xlsx,True
+699,Newcastle Disease,D009521,D8_MeSH_XML|disease_mesh_xlsx,True
+700,Niemann-Pick Diseases,D009542,D8_MeSH_XML|disease_mesh_xlsx,True
+701,Noma,D009625,D8_MeSH_XML|disease_mesh_xlsx,True
+702,"Nondisjunction, Genetic",D009630,D8_MeSH_XML|disease_mesh_xlsx,True
+703,Obesity,D009765,D8_MeSH_XML|disease_mesh_xlsx,True
+704,"Obesity, Morbid",D009767,D8_MeSH_XML|disease_mesh_xlsx,True
+705,Obsessive-Compulsive Disorder,D009771,D8_MeSH_XML|disease_mesh_xlsx,True
+706,Ocular Hypertension,D009798,D8_MeSH_XML|disease_mesh_xlsx,True
+707,Oligospermia,D009845,D8_MeSH_XML|disease_mesh_xlsx,True
+708,Oophoritis,D009869,D8_MeSH_XML|disease_mesh_xlsx,True
+709,Endophthalmitis,D009877,D8_MeSH_XML|disease_mesh_xlsx,True
+710,Optic Nerve Diseases,D009901,D8_MeSH_XML|disease_mesh_xlsx,True
+711,Optic Neuritis,D009902,D8_MeSH_XML|disease_mesh_xlsx,True
+712,Oral Submucous Fibrosis,D009914,D8_MeSH_XML|disease_mesh_xlsx,True
+713,Orchitis,D009920,D8_MeSH_XML|disease_mesh_xlsx,True
+714,Orofaciodigital Syndromes,D009958,D8_MeSH_XML|disease_mesh_xlsx,True
+715,Oropharyngeal Neoplasms,D009959,D8_MeSH_XML|disease_mesh_xlsx,True
+716,"Ossification, Heterotopic",D009999,D8_MeSH_XML|disease_mesh_xlsx,True
+717,Osteitis,D010000,D8_MeSH_XML|disease_mesh_xlsx,True
+718,Osteitis Deformans,D010001,D8_MeSH_XML|disease_mesh_xlsx,True
+719,Osteoarthritis,D010003,D8_MeSH_XML|disease_mesh_xlsx,True
+720,"Osteoarthropathy, Primary Hypertrophic",D010004,D8_MeSH_XML|disease_mesh_xlsx,True
+721,Osteochondritis Dissecans,D010008,D8_MeSH_XML|disease_mesh_xlsx,True
+722,Osteochondrodysplasias,D010009,D8_MeSH_XML|disease_mesh_xlsx,True
+723,Osteolysis,D010014,D8_MeSH_XML|disease_mesh_xlsx,True
+724,"Osteolysis, Essential",D010015,D8_MeSH_XML|disease_mesh_xlsx,True
+725,Osteomyelitis,D010019,D8_MeSH_XML|disease_mesh_xlsx,True
+726,Osteonecrosis,D010020,D8_MeSH_XML|disease_mesh_xlsx,True
+727,Osteoporosis,D010024,D8_MeSH_XML|disease_mesh_xlsx,True
+728,Otitis Media,D010033,D8_MeSH_XML|disease_mesh_xlsx,True
+729,Otitis Media with Effusion,D010034,D8_MeSH_XML|disease_mesh_xlsx,True
+730,Ovarian Diseases,D010049,D8_MeSH_XML|disease_mesh_xlsx,True
+731,Ovarian Neoplasms,D010051,D8_MeSH_XML|disease_mesh_xlsx,True
+732,"Paget Disease, Extramammary",D010145,D8_MeSH_XML|disease_mesh_xlsx,True
+733,Pain,D010146,D8_MeSH_XML|disease_mesh_xlsx,True
+734,"Pain, Postoperative",D010149,D8_MeSH_XML|disease_mesh_xlsx,True
+735,Palatal Neoplasms,D010157,D8_MeSH_XML|disease_mesh_xlsx,True
+736,Pancreatic Diseases,D010182,D8_MeSH_XML|disease_mesh_xlsx,True
+737,Exocrine Pancreatic Insufficiency,D010188,D8_MeSH_XML|disease_mesh_xlsx,True
+738,Pancreatic Neoplasms,D010190,D8_MeSH_XML|disease_mesh_xlsx,True
+739,Pancreatitis,D010195,D8_MeSH_XML|disease_mesh_xlsx,True
+740,Papillon-Lefevre Disease,D010214,D8_MeSH_XML|disease_mesh_xlsx,True
+741,Paraganglioma,D010235,D8_MeSH_XML|disease_mesh_xlsx,True
+742,Respirovirus Infections,D010253,D8_MeSH_XML|disease_mesh_xlsx,True
+743,Paranasal Sinus Neoplasms,D010255,D8_MeSH_XML|disease_mesh_xlsx,True
+744,Parasitic Diseases,D010272,D8_MeSH_XML|disease_mesh_xlsx,True
+745,Parathyroid Neoplasms,D010282,D8_MeSH_XML|disease_mesh_xlsx,True
+746,Parkinson Disease,D010300,D8_MeSH_XML|disease_mesh_xlsx,True
+747,Pathologic Processes,D010335,D8_MeSH_XML|disease_mesh_xlsx,True
+748,"Pemphigoid, Bullous",D010391,D8_MeSH_XML|disease_mesh_xlsx,True
+749,Penile Neoplasms,D010412,D8_MeSH_XML|disease_mesh_xlsx,True
+750,Peptic Ulcer,D010437,D8_MeSH_XML|disease_mesh_xlsx,True
+751,Periapical Diseases,D010483,D8_MeSH_XML|disease_mesh_xlsx,True
+752,Periapical Periodontitis,D010485,D8_MeSH_XML|disease_mesh_xlsx,True
+753,Pericardial Effusion,D010490,D8_MeSH_XML|disease_mesh_xlsx,True
+754,Familial Mediterranean Fever,D010505,D8_MeSH_XML|disease_mesh_xlsx,True
+755,Periodontal Diseases,D010510,D8_MeSH_XML|disease_mesh_xlsx,True
+756,Periodontitis,D010518,D8_MeSH_XML|disease_mesh_xlsx,True
+757,Aggressive Periodontitis,D010520,D8_MeSH_XML|disease_mesh_xlsx,True
+758,Peripheral Nervous System Diseases,D010523,D8_MeSH_XML|disease_mesh_xlsx,True
+759,Peritoneal Diseases,D010532,D8_MeSH_XML|disease_mesh_xlsx,True
+760,Peritoneal Neoplasms,D010534,D8_MeSH_XML|disease_mesh_xlsx,True
+761,Phenylketonurias,D010661,D8_MeSH_XML|disease_mesh_xlsx,True
+762,Pheochromocytoma,D010673,D8_MeSH_XML|disease_mesh_xlsx,True
+763,Phobic Disorders,D010698,D8_MeSH_XML|disease_mesh_xlsx,True
+764,Pica,D010842,D8_MeSH_XML|disease_mesh_xlsx,True
+765,Pigmentation Disorders,D010859,D8_MeSH_XML|disease_mesh_xlsx,True
+766,Pituitary Diseases,D010900,D8_MeSH_XML|disease_mesh_xlsx,True
+767,Pituitary Neoplasms,D010911,D8_MeSH_XML|disease_mesh_xlsx,True
+768,Placenta Accreta,D010921,D8_MeSH_XML|disease_mesh_xlsx,True
+769,Placenta Diseases,D010922,D8_MeSH_XML|disease_mesh_xlsx,True
+770,Placental Insufficiency,D010927,D8_MeSH_XML|disease_mesh_xlsx,True
+771,Platelet Storage Pool Deficiency,D010981,D8_MeSH_XML|disease_mesh_xlsx,True
+772,Pleural Diseases,D010995,D8_MeSH_XML|disease_mesh_xlsx,True
+773,Pneumococcal Infections,D011008,D8_MeSH_XML|disease_mesh_xlsx,True
+774,Pneumoconiosis,D011009,D8_MeSH_XML|disease_mesh_xlsx,True
+775,Pneumonia,D011014,D8_MeSH_XML|disease_mesh_xlsx,True
+776,"Pneumonia, Aspiration",D011015,D8_MeSH_XML|disease_mesh_xlsx,True
+777,"Pneumonia, Mycoplasma",D011019,D8_MeSH_XML|disease_mesh_xlsx,True
+778,"Pneumonia, Staphylococcal",D011023,D8_MeSH_XML|disease_mesh_xlsx,True
+779,Pneumothorax,D011030,D8_MeSH_XML|disease_mesh_xlsx,True
+780,Poisoning,D011041,D8_MeSH_XML|disease_mesh_xlsx,True
+781,Polycystic Ovary Syndrome,D011085,D8_MeSH_XML|disease_mesh_xlsx,True
+782,Polycythemia,D011086,D8_MeSH_XML|disease_mesh_xlsx,True
+783,Polycythemia Vera,D011087,D8_MeSH_XML|disease_mesh_xlsx,True
+784,Polyneuropathies,D011115,D8_MeSH_XML|disease_mesh_xlsx,True
+785,Adenomatous Polyposis Coli,D011125,D8_MeSH_XML|disease_mesh_xlsx,True
+786,Polyps,D011127,D8_MeSH_XML|disease_mesh_xlsx,True
+787,Prader-Willi Syndrome,D011218,D8_MeSH_XML|disease_mesh_xlsx,True
+788,Pre-Eclampsia,D011225,D8_MeSH_XML|disease_mesh_xlsx,True
+789,Precancerous Conditions,D011230,D8_MeSH_XML|disease_mesh_xlsx,True
+790,Prediabetic State,D011236,D8_MeSH_XML|disease_mesh_xlsx,True
+791,Pregnancy Complications,D011248,D8_MeSH_XML|disease_mesh_xlsx,True
+792,"Pregnancy Complications, Infectious",D011251,D8_MeSH_XML|disease_mesh_xlsx,True
+793,"Pregnancy, Ectopic",D011271,D8_MeSH_XML|disease_mesh_xlsx,True
+794,Premenstrual Syndrome,D011293,D8_MeSH_XML|disease_mesh_xlsx,True
+795,Progeria,D011371,D8_MeSH_XML|disease_mesh_xlsx,True
+796,Prostatic Diseases,D011469,D8_MeSH_XML|disease_mesh_xlsx,True
+797,Prostatic Hyperplasia,D011470,D8_MeSH_XML|disease_mesh_xlsx,True
+798,Prostatic Neoplasms,D011471,D8_MeSH_XML|disease_mesh_xlsx,True
+799,Prostatitis,D011472,D8_MeSH_XML|disease_mesh_xlsx,True
+800,Prosthesis Failure,D011475,D8_MeSH_XML|disease_mesh_xlsx,True
+801,Protein-Losing Enteropathies,D011504,D8_MeSH_XML|disease_mesh_xlsx,True
+802,Proteinuria,D011507,D8_MeSH_XML|disease_mesh_xlsx,True
+803,Pruritus,D011537,D8_MeSH_XML|disease_mesh_xlsx,True
+804,Pseudarthrosis,D011542,D8_MeSH_XML|disease_mesh_xlsx,True
+805,Pseudomonas Infections,D011552,D8_MeSH_XML|disease_mesh_xlsx,True
+806,Psoriasis,D011565,D8_MeSH_XML|disease_mesh_xlsx,True
+807,Psychotic Disorders,D011618,D8_MeSH_XML|disease_mesh_xlsx,True
+808,Pterygium,D011625,D8_MeSH_XML|disease_mesh_xlsx,True
+809,Pulmonary Edema,D011654,D8_MeSH_XML|disease_mesh_xlsx,True
+810,Pulmonary Embolism,D011655,D8_MeSH_XML|disease_mesh_xlsx,True
+811,Pulmonary Emphysema,D011656,D8_MeSH_XML|disease_mesh_xlsx,True
+812,Pulmonary Eosinophilia,D011657,D8_MeSH_XML|disease_mesh_xlsx,True
+813,Pulmonary Fibrosis,D011658,D8_MeSH_XML|disease_mesh_xlsx,True
+814,Pulmonary Veno-Occlusive Disease,D011668,D8_MeSH_XML|disease_mesh_xlsx,True
+815,Pulpitis,D011671,D8_MeSH_XML|disease_mesh_xlsx,True
+816,Purpura,D011693,D8_MeSH_XML|disease_mesh_xlsx,True
+817,IgA Vasculitis,D011695,D8_MeSH_XML|disease_mesh_xlsx,True
+818,Pyelonephritis,D011704,D8_MeSH_XML|disease_mesh_xlsx,True
+819,Rabies,D011818,D8_MeSH_XML|disease_mesh_xlsx,True
+820,Radiation Injuries,D011832,D8_MeSH_XML|disease_mesh_xlsx,True
+821,Radius Fractures,D011885,D8_MeSH_XML|disease_mesh_xlsx,True
+822,Rectal Diseases,D012002,D8_MeSH_XML|disease_mesh_xlsx,True
+823,Rectal Neoplasms,D012004,D8_MeSH_XML|disease_mesh_xlsx,True
+824,Rectal Prolapse,D012005,D8_MeSH_XML|disease_mesh_xlsx,True
+825,Recurrence,D012008,D8_MeSH_XML|disease_mesh_xlsx,True
+826,Reflex Sympathetic Dystrophy,D012019,D8_MeSH_XML|disease_mesh_xlsx,True
+827,Refractive Errors,D012030,D8_MeSH_XML|disease_mesh_xlsx,True
+828,Renal Artery Obstruction,D012078,D8_MeSH_XML|disease_mesh_xlsx,True
+829,Cumulative Trauma Disorders,D012090,D8_MeSH_XML|disease_mesh_xlsx,True
+830,Respiration Disorders,D012120,D8_MeSH_XML|disease_mesh_xlsx,True
+831,"Respiratory Distress Syndrome, Newborn",D012127,D8_MeSH_XML|disease_mesh_xlsx,True
+832,Respiratory Distress Syndrome,D012128,D8_MeSH_XML|disease_mesh_xlsx,True
+833,Respiratory Insufficiency,D012131,D8_MeSH_XML|disease_mesh_xlsx,True
+834,Respiratory Paralysis,D012133,D8_MeSH_XML|disease_mesh_xlsx,True
+835,Respiratory Sounds,D012135,D8_MeSH_XML|disease_mesh_xlsx,True
+836,Respiratory Tract Infections,D012141,D8_MeSH_XML|disease_mesh_xlsx,True
+837,Respiratory Tract Neoplasms,D012142,D8_MeSH_XML|disease_mesh_xlsx,True
+838,Retinal Degeneration,D012162,D8_MeSH_XML|disease_mesh_xlsx,True
+839,Retinal Detachment,D012163,D8_MeSH_XML|disease_mesh_xlsx,True
+840,Retinal Diseases,D012164,D8_MeSH_XML|disease_mesh_xlsx,True
+841,Retinal Vein Occlusion,D012170,D8_MeSH_XML|disease_mesh_xlsx,True
+842,Retinitis,D012173,D8_MeSH_XML|disease_mesh_xlsx,True
+843,Retinitis Pigmentosa,D012174,D8_MeSH_XML|disease_mesh_xlsx,True
+844,Retinoblastoma,D012175,D8_MeSH_XML|disease_mesh_xlsx,True
+845,Retinopathy of Prematurity,D012178,D8_MeSH_XML|disease_mesh_xlsx,True
+846,Retroviridae Infections,D012192,D8_MeSH_XML|disease_mesh_xlsx,True
+847,Rhabdomyosarcoma,D012208,D8_MeSH_XML|disease_mesh_xlsx,True
+848,Rhabdoviridae,D012209,D8_MeSH_XML|disease_mesh_xlsx,True
+849,Rheumatic Fever,D012213,D8_MeSH_XML|disease_mesh_xlsx,True
+850,Rheumatic Heart Disease,D012214,D8_MeSH_XML|disease_mesh_xlsx,True
+851,Rickettsia Infections,D012282,D8_MeSH_XML|disease_mesh_xlsx,True
+852,Rift Valley Fever,D012295,D8_MeSH_XML|disease_mesh_xlsx,True
+853,Rotavirus Infections,D012400,D8_MeSH_XML|disease_mesh_xlsx,True
+854,"Rubella Syndrome, Congenital",D012410,D8_MeSH_XML|disease_mesh_xlsx,True
+855,Rupture,D012421,D8_MeSH_XML|disease_mesh_xlsx,True
+856,Salivary Gland Neoplasms,D012468,D8_MeSH_XML|disease_mesh_xlsx,True
+857,Salpingitis,D012488,D8_MeSH_XML|disease_mesh_xlsx,True
+858,Sarcoidosis,D012507,D8_MeSH_XML|disease_mesh_xlsx,True
+859,Sarcoma,D012509,D8_MeSH_XML|disease_mesh_xlsx,True
+860,"Sarcoma, Ewing",D012512,D8_MeSH_XML|disease_mesh_xlsx,True
+861,"Sarcoma, Kaposi",D012514,D8_MeSH_XML|disease_mesh_xlsx,True
+862,Osteosarcoma,D012516,D8_MeSH_XML|disease_mesh_xlsx,True
+863,Schistosomiasis,D012552,D8_MeSH_XML|disease_mesh_xlsx,True
+864,Schistosomiasis japonica,D012554,D8_MeSH_XML|disease_mesh_xlsx,True
+865,Schizophrenia,D012559,D8_MeSH_XML|disease_mesh_xlsx,True
+866,Sciatica,D012585,D8_MeSH_XML|disease_mesh_xlsx,True
+867,"Scleroderma, Systemic",D012595,D8_MeSH_XML|disease_mesh_xlsx,True
+868,Seizures,D012640,D8_MeSH_XML|disease_mesh_xlsx,True
+869,Disorders of Sex Development,D012734,D8_MeSH_XML|disease_mesh_xlsx,True
+870,Sexually Transmitted Diseases,D012749,D8_MeSH_XML|disease_mesh_xlsx,True
+871,Sezary Syndrome,D012751,D8_MeSH_XML|disease_mesh_xlsx,True
+872,"Shock, Cardiogenic",D012770,D8_MeSH_XML|disease_mesh_xlsx,True
+873,"Shock, Hemorrhagic",D012771,D8_MeSH_XML|disease_mesh_xlsx,True
+874,"Shock, Septic",D012772,D8_MeSH_XML|disease_mesh_xlsx,True
+875,Sialorrhea,D012798,D8_MeSH_XML|disease_mesh_xlsx,True
+876,Sick Sinus Syndrome,D012804,D8_MeSH_XML|disease_mesh_xlsx,True
+877,Siderosis,D012806,D8_MeSH_XML|disease_mesh_xlsx,True
+878,Signs and Symptoms,D012816,D8_MeSH_XML|disease_mesh_xlsx,True
+879,Silicotuberculosis,D012830,D8_MeSH_XML|disease_mesh_xlsx,True
+880,"Sinus Thrombosis, Intracranial",D012851,D8_MeSH_XML|disease_mesh_xlsx,True
+881,Sjogren's Syndrome,D012859,D8_MeSH_XML|disease_mesh_xlsx,True
+882,Skin Diseases,D012871,D8_MeSH_XML|disease_mesh_xlsx,True
+883,Skin Neoplasms,D012878,D8_MeSH_XML|disease_mesh_xlsx,True
+884,Skin Pigmentation,D012880,D8_MeSH_XML|disease_mesh_xlsx,True
+885,Skin Ulcer,D012883,D8_MeSH_XML|disease_mesh_xlsx,True
+886,Sleep Apnea Syndromes,D012891,D8_MeSH_XML|disease_mesh_xlsx,True
+887,Sleep Deprivation,D012892,D8_MeSH_XML|disease_mesh_xlsx,True
+888,Spasm,D013035,D8_MeSH_XML|disease_mesh_xlsx,True
+889,Spermatic Cord Torsion,D013086,D8_MeSH_XML|disease_mesh_xlsx,True
+890,"Spherocytosis, Hereditary",D013103,D8_MeSH_XML|disease_mesh_xlsx,True
+891,Spinal Cord Compression,D013117,D8_MeSH_XML|disease_mesh_xlsx,True
+892,Spinal Cord Diseases,D013118,D8_MeSH_XML|disease_mesh_xlsx,True
+893,Spinal Cord Injuries,D013119,D8_MeSH_XML|disease_mesh_xlsx,True
+894,Spinal Curvatures,D013121,D8_MeSH_XML|disease_mesh_xlsx,True
+895,Spinal Diseases,D013122,D8_MeSH_XML|disease_mesh_xlsx,True
+896,Spinal Injuries,D013124,D8_MeSH_XML|disease_mesh_xlsx,True
+897,Splenic Diseases,D013158,D8_MeSH_XML|disease_mesh_xlsx,True
+898,Splenic Neoplasms,D013160,D8_MeSH_XML|disease_mesh_xlsx,True
+899,Staphylococcal Infections,D013203,D8_MeSH_XML|disease_mesh_xlsx,True
+900,Staphylococcal Scalded Skin Syndrome,D013206,D8_MeSH_XML|disease_mesh_xlsx,True
+901,Starvation,D013217,D8_MeSH_XML|disease_mesh_xlsx,True
+902,Status Asthmaticus,D013224,D8_MeSH_XML|disease_mesh_xlsx,True
+903,Status Epilepticus,D013226,D8_MeSH_XML|disease_mesh_xlsx,True
+904,Stevens-Johnson Syndrome,D013262,D8_MeSH_XML|disease_mesh_xlsx,True
+905,Stomach Diseases,D013272,D8_MeSH_XML|disease_mesh_xlsx,True
+906,Stomach Neoplasms,D013274,D8_MeSH_XML|disease_mesh_xlsx,True
+907,Stomach Ulcer,D013276,D8_MeSH_XML|disease_mesh_xlsx,True
+908,Stomatitis,D013280,D8_MeSH_XML|disease_mesh_xlsx,True
+909,"Stress Disorders, Post-Traumatic",D013313,D8_MeSH_XML|disease_mesh_xlsx,True
+910,Subarachnoid Hemorrhage,D013345,D8_MeSH_XML|disease_mesh_xlsx,True
+911,Submandibular Gland Diseases,D013364,D8_MeSH_XML|disease_mesh_xlsx,True
+912,Substance Withdrawal Syndrome,D013375,D8_MeSH_XML|disease_mesh_xlsx,True
+913,Sunburn,D013471,D8_MeSH_XML|disease_mesh_xlsx,True
+914,Suppuration,D013492,D8_MeSH_XML|disease_mesh_xlsx,True
+915,"Supranuclear Palsy, Progressive",D013494,D8_MeSH_XML|disease_mesh_xlsx,True
+916,Swine Diseases,D013553,D8_MeSH_XML|disease_mesh_xlsx,True
+917,"Sarcoma, Synovial",D013584,D8_MeSH_XML|disease_mesh_xlsx,True
+918,Synovitis,D013585,D8_MeSH_XML|disease_mesh_xlsx,True
+919,Syphilis,D013587,D8_MeSH_XML|disease_mesh_xlsx,True
+920,Tachycardia,D013610,D8_MeSH_XML|disease_mesh_xlsx,True
+921,Takayasu Arteritis,D013625,D8_MeSH_XML|disease_mesh_xlsx,True
+922,"Telangiectasia, Hereditary Hemorrhagic",D013683,D8_MeSH_XML|disease_mesh_xlsx,True
+923,Giant Cell Arteritis,D013700,D8_MeSH_XML|disease_mesh_xlsx,True
+924,Temporomandibular Joint Disorders,D013705,D8_MeSH_XML|disease_mesh_xlsx,True
+925,Temporomandibular Joint Dysfunction Syndrome,D013706,D8_MeSH_XML|disease_mesh_xlsx,True
+926,Tendon Injuries,D013708,D8_MeSH_XML|disease_mesh_xlsx,True
+927,Teratoma,D013724,D8_MeSH_XML|disease_mesh_xlsx,True
+928,Testicular Diseases,D013733,D8_MeSH_XML|disease_mesh_xlsx,True
+929,Testicular Neoplasms,D013736,D8_MeSH_XML|disease_mesh_xlsx,True
+930,Tetralogy of Fallot,D013771,D8_MeSH_XML|disease_mesh_xlsx,True
+931,Thalassemia,D013789,D8_MeSH_XML|disease_mesh_xlsx,True
+932,Thiamine Deficiency,D013832,D8_MeSH_XML|disease_mesh_xlsx,True
+933,Thinness,D013851,D8_MeSH_XML|disease_mesh_xlsx,True
+934,Thromboangiitis Obliterans,D013919,D8_MeSH_XML|disease_mesh_xlsx,True
+935,"Thrombocythemia, Essential",D013920,D8_MeSH_XML|disease_mesh_xlsx,True
+936,Thrombocytopenia,D013921,D8_MeSH_XML|disease_mesh_xlsx,True
+937,Thrombophlebitis,D013924,D8_MeSH_XML|disease_mesh_xlsx,True
+938,Thrombosis,D013927,D8_MeSH_XML|disease_mesh_xlsx,True
+939,Thymoma,D013945,D8_MeSH_XML|disease_mesh_xlsx,True
+940,Thymus Neoplasms,D013953,D8_MeSH_XML|disease_mesh_xlsx,True
+941,Thyroid Diseases,D013959,D8_MeSH_XML|disease_mesh_xlsx,True
+942,Thyroid Neoplasms,D013964,D8_MeSH_XML|disease_mesh_xlsx,True
+943,Thyroiditis,D013966,D8_MeSH_XML|disease_mesh_xlsx,True
+944,"Thyroiditis, Autoimmune",D013967,D8_MeSH_XML|disease_mesh_xlsx,True
+945,"Thyroiditis, Subacute",D013968,D8_MeSH_XML|disease_mesh_xlsx,True
+946,Tibial Fractures,D013978,D8_MeSH_XML|disease_mesh_xlsx,True
+947,Tic Disorders,D013981,D8_MeSH_XML|disease_mesh_xlsx,True
+948,Tinnitus,D014012,D8_MeSH_XML|disease_mesh_xlsx,True
+949,Tobacco Use Disorder,D014029,D8_MeSH_XML|disease_mesh_xlsx,True
+950,Tongue Neoplasms,D014062,D8_MeSH_XML|disease_mesh_xlsx,True
+951,Tooth Diseases,D014076,D8_MeSH_XML|disease_mesh_xlsx,True
+952,"Tooth, Impacted",D014095,D8_MeSH_XML|disease_mesh_xlsx,True
+953,"Tooth, Supernumerary",D014096,D8_MeSH_XML|disease_mesh_xlsx,True
+954,Toxoplasmosis,D014123,D8_MeSH_XML|disease_mesh_xlsx,True
+955,"Toxoplasmosis, Ocular",D014126,D8_MeSH_XML|disease_mesh_xlsx,True
+956,Tracheal Stenosis,D014135,D8_MeSH_XML|disease_mesh_xlsx,True
+957,Trachoma,D014141,D8_MeSH_XML|disease_mesh_xlsx,True
+958,Transposition of Great Vessels,D014188,D8_MeSH_XML|disease_mesh_xlsx,True
+959,Tricuspid Valve Insufficiency,D014262,D8_MeSH_XML|disease_mesh_xlsx,True
+960,Trigeminal Neuralgia,D014277,D8_MeSH_XML|disease_mesh_xlsx,True
+961,Trophoblastic Neoplasms,D014328,D8_MeSH_XML|disease_mesh_xlsx,True
+962,"Trypanosomiasis, African",D014353,D8_MeSH_XML|disease_mesh_xlsx,True
+963,Chagas Disease,D014355,D8_MeSH_XML|disease_mesh_xlsx,True
+964,Tuberculosis,D014376,D8_MeSH_XML|disease_mesh_xlsx,True
+965,"Tuberculosis, Gastrointestinal",D014385,D8_MeSH_XML|disease_mesh_xlsx,True
+966,"Tuberculosis, Meningeal",D014390,D8_MeSH_XML|disease_mesh_xlsx,True
+967,"Tuberculosis, Pulmonary",D014397,D8_MeSH_XML|disease_mesh_xlsx,True
+968,"Tuberculosis, Spinal",D014399,D8_MeSH_XML|disease_mesh_xlsx,True
+969,Tuberous Sclerosis,D014402,D8_MeSH_XML|disease_mesh_xlsx,True
+970,Turner Syndrome,D014424,D8_MeSH_XML|disease_mesh_xlsx,True
+971,Uremia,D014511,D8_MeSH_XML|disease_mesh_xlsx,True
+972,Urethral Stricture,D014525,D8_MeSH_XML|disease_mesh_xlsx,True
+973,Urethritis,D014526,D8_MeSH_XML|disease_mesh_xlsx,True
+974,Urinary Calculi,D014545,D8_MeSH_XML|disease_mesh_xlsx,True
+975,"Urinary Incontinence, Stress",D014550,D8_MeSH_XML|disease_mesh_xlsx,True
+976,Urogenital Neoplasms,D014565,D8_MeSH_XML|disease_mesh_xlsx,True
+977,Urologic Diseases,D014570,D8_MeSH_XML|disease_mesh_xlsx,True
+978,Urologic Neoplasms,D014571,D8_MeSH_XML|disease_mesh_xlsx,True
+979,Urticaria,D014581,D8_MeSH_XML|disease_mesh_xlsx,True
+980,Uterine Diseases,D014591,D8_MeSH_XML|disease_mesh_xlsx,True
+981,Uterine Hemorrhage,D014592,D8_MeSH_XML|disease_mesh_xlsx,True
+982,Uterine Neoplasms,D014594,D8_MeSH_XML|disease_mesh_xlsx,True
+983,Uveitis,D014605,D8_MeSH_XML|disease_mesh_xlsx,True
+984,Uveomeningoencephalitic Syndrome,D014607,D8_MeSH_XML|disease_mesh_xlsx,True
+985,Vaginal Diseases,D014623,D8_MeSH_XML|disease_mesh_xlsx,True
+986,Varicocele,D014646,D8_MeSH_XML|disease_mesh_xlsx,True
+987,Varicose Ulcer,D014647,D8_MeSH_XML|disease_mesh_xlsx,True
+988,Varicose Veins,D014648,D8_MeSH_XML|disease_mesh_xlsx,True
+989,Vascular Diseases,D014652,D8_MeSH_XML|disease_mesh_xlsx,True
+990,Vasculitis,D014657,D8_MeSH_XML|disease_mesh_xlsx,True
+991,Vertigo,D014717,D8_MeSH_XML|disease_mesh_xlsx,True
+992,Vesico-Ureteral Reflux,D014718,D8_MeSH_XML|disease_mesh_xlsx,True
+993,Viremia,D014766,D8_MeSH_XML|disease_mesh_xlsx,True
+994,Virus Diseases,D014777,D8_MeSH_XML|disease_mesh_xlsx,True
+995,Vision Disorders,D014786,D8_MeSH_XML|disease_mesh_xlsx,True
+996,Vitamin A Deficiency,D014802,D8_MeSH_XML|disease_mesh_xlsx,True
+997,Vitamin B Deficiency,D014804,D8_MeSH_XML|disease_mesh_xlsx,True
+998,Vitamin D Deficiency,D014808,D8_MeSH_XML|disease_mesh_xlsx,True
+999,Vitiligo,D014820,D8_MeSH_XML|disease_mesh_xlsx,True
+1000,Vitreous Hemorrhage,D014823,D8_MeSH_XML|disease_mesh_xlsx,True
+1001,von Willebrand Diseases,D014842,D8_MeSH_XML|disease_mesh_xlsx,True
+1002,Vulvar Neoplasms,D014846,D8_MeSH_XML|disease_mesh_xlsx,True
+1003,Wallerian Degeneration,D014855,D8_MeSH_XML|disease_mesh_xlsx,True
+1004,Granulomatosis with Polyangiitis,D014890,D8_MeSH_XML|disease_mesh_xlsx,True
+1005,Weil Disease,D014895,D8_MeSH_XML|disease_mesh_xlsx,True
+1006,Werner Syndrome,D014898,D8_MeSH_XML|disease_mesh_xlsx,True
+1007,West Nile Fever,D014901,D8_MeSH_XML|disease_mesh_xlsx,True
+1008,Wiskott-Aldrich Syndrome,D014923,D8_MeSH_XML|disease_mesh_xlsx,True
+1009,Wolfram Syndrome,D014929,D8_MeSH_XML|disease_mesh_xlsx,True
+1010,Wound Healing,D014945,D8_MeSH_XML|disease_mesh_xlsx,True
+1011,Wound Infection,D014946,D8_MeSH_XML|disease_mesh_xlsx,True
+1012,Wounds and Injuries,D014947,D8_MeSH_XML|disease_mesh_xlsx,True
+1013,"Wounds, Nonpenetrating",D014949,D8_MeSH_XML|disease_mesh_xlsx,True
+1014,Xerostomia,D014987,D8_MeSH_XML|disease_mesh_xlsx,True
+1015,"Dementia, Vascular",D015140,D8_MeSH_XML|disease_mesh_xlsx,True
+1016,Prolactinoma,D015175,D8_MeSH_XML|disease_mesh_xlsx,True
+1017,Colorectal Neoplasms,D015179,D8_MeSH_XML|disease_mesh_xlsx,True
+1018,"Arthritis, Gouty",D015210,D8_MeSH_XML|disease_mesh_xlsx,True
+1019,Inflammatory Bowel Diseases,D015212,D8_MeSH_XML|disease_mesh_xlsx,True
+1020,Hypertriglyceridemia,D015228,D8_MeSH_XML|disease_mesh_xlsx,True
+1021,"Sexually Transmitted Diseases, Viral",D015229,D8_MeSH_XML|disease_mesh_xlsx,True
+1022,"Carcinoma, Merkel Cell",D015266,D8_MeSH_XML|disease_mesh_xlsx,True
+1023,Mycobacterium avium-intracellulare Infection,D015270,D8_MeSH_XML|disease_mesh_xlsx,True
+1024,Dry Eye Syndromes,D015352,D8_MeSH_XML|disease_mesh_xlsx,True
+1025,"Vision, Low",D015354,D8_MeSH_XML|disease_mesh_xlsx,True
+1026,Gastrinoma,D015408,D8_MeSH_XML|disease_mesh_xlsx,True
+1027,"Spastic Paraplegia, Hereditary",D015419,D8_MeSH_XML|disease_mesh_xlsx,True
+1028,Scleral Diseases,D015422,D8_MeSH_XML|disease_mesh_xlsx,True
+1029,Reperfusion Injury,D015427,D8_MeSH_XML|disease_mesh_xlsx,True
+1030,Myocardial Reperfusion Injury,D015428,D8_MeSH_XML|disease_mesh_xlsx,True
+1031,Weight Loss,D015431,D8_MeSH_XML|disease_mesh_xlsx,True
+1032,"Glomerulonephritis, Membranoproliferative",D015432,D8_MeSH_XML|disease_mesh_xlsx,True
+1033,"Glomerulonephritis, Membranous",D015433,D8_MeSH_XML|disease_mesh_xlsx,True
+1034,"Panniculitis, Peritoneal",D015436,D8_MeSH_XML|disease_mesh_xlsx,True
+1035,"Leukemia, Lymphocytic, Chronic, B-Cell",D015451,D8_MeSH_XML|disease_mesh_xlsx,True
+1036,Precursor B-Cell Lymphoblastic Leukemia-Lymphoma,D015452,D8_MeSH_XML|disease_mesh_xlsx,True
+1037,"Leukemia, Biphenotypic, Acute",D015456,D8_MeSH_XML|disease_mesh_xlsx,True
+1038,"Leukemia-Lymphoma, Adult T-Cell",D015459,D8_MeSH_XML|disease_mesh_xlsx,True
+1039,"Leukemia, Prolymphocytic, T-Cell",D015461,D8_MeSH_XML|disease_mesh_xlsx,True
+1040,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",D015464,D8_MeSH_XML|disease_mesh_xlsx,True
+1041,"Leukemia, Myeloid, Accelerated Phase",D015465,D8_MeSH_XML|disease_mesh_xlsx,True
+1042,"Leukemia, Myeloid, Chronic-Phase",D015466,D8_MeSH_XML|disease_mesh_xlsx,True
+1043,"Leukemia, Myeloid, Acute",D015470,D8_MeSH_XML|disease_mesh_xlsx,True
+1044,"Leukemia, Promyelocytic, Acute",D015473,D8_MeSH_XML|disease_mesh_xlsx,True
+1045,"Leukemia, Myelomonocytic, Chronic",D015477,D8_MeSH_XML|disease_mesh_xlsx,True
+1046,HTLV-II Infections,D015491,D8_MeSH_XML|disease_mesh_xlsx,True
+1047,Rett Syndrome,D015518,D8_MeSH_XML|disease_mesh_xlsx,True
+1048,Maxillary Sinusitis,D015523,D8_MeSH_XML|disease_mesh_xlsx,True
+1049,AIDS Dementia Complex,D015526,D8_MeSH_XML|disease_mesh_xlsx,True
+1050,"Arthritis, Psoriatic",D015535,D8_MeSH_XML|disease_mesh_xlsx,True
+1051,Hyperostosis,D015576,D8_MeSH_XML|disease_mesh_xlsx,True
+1052,Histiocytosis,D015614,D8_MeSH_XML|disease_mesh_xlsx,True
+1053,"Osteoporosis, Postmenopausal",D015663,D8_MeSH_XML|disease_mesh_xlsx,True
+1054,"Fatigue Syndrome, Chronic",D015673,D8_MeSH_XML|disease_mesh_xlsx,True
+1055,"Electrocardiography, Ambulatory",D015716,D8_MeSH_XML|disease_mesh_xlsx,True
+1056,Aniridia,D015783,D8_MeSH_XML|disease_mesh_xlsx,True
+1057,"Substance Abuse, Intravenous",D015819,D8_MeSH_XML|disease_mesh_xlsx,True
+1058,"Eye Infections, Fungal",D015821,D8_MeSH_XML|disease_mesh_xlsx,True
+1059,Langer-Giedion Syndrome,D015826,D8_MeSH_XML|disease_mesh_xlsx,True
+1060,Cochlear Diseases,D015834,D8_MeSH_XML|disease_mesh_xlsx,True
+1061,Retinal Neovascularization,D015861,D8_MeSH_XML|disease_mesh_xlsx,True
+1062,Choroid Diseases,D015862,D8_MeSH_XML|disease_mesh_xlsx,True
+1063,Pars Planitis,D015868,D8_MeSH_XML|disease_mesh_xlsx,True
+1064,Kidney Transplantation,D016030,D8_MeSH_XML|disease_mesh_xlsx,True
+1065,Urinary Retention,D016055,D8_MeSH_XML|disease_mesh_xlsx,True
+1066,"Pleural Effusion, Malignant",D016066,D8_MeSH_XML|disease_mesh_xlsx,True
+1067,Simian Acquired Immunodeficiency Syndrome,D016097,D8_MeSH_XML|disease_mesh_xlsx,True
+1068,Gerstmann-Straussler-Scheinker Disease,D016098,D8_MeSH_XML|disease_mesh_xlsx,True
+1069,Spinal Fractures,D016103,D8_MeSH_XML|disease_mesh_xlsx,True
+1070,Spinal Dysraphism,D016135,D8_MeSH_XML|disease_mesh_xlsx,True
+1071,Hepacivirus,D016174,D8_MeSH_XML|disease_mesh_xlsx,True
+1072,Lentivirus Infections,D016180,D8_MeSH_XML|disease_mesh_xlsx,True
+1073,Murine Acquired Immunodeficiency Syndrome,D016183,D8_MeSH_XML|disease_mesh_xlsx,True
+1074,AIDS-Associated Nephropathy,D016263,D8_MeSH_XML|disease_mesh_xlsx,True
+1075,Milk Hypersensitivity,D016269,D8_MeSH_XML|disease_mesh_xlsx,True
+1076,Alveolar Bone Loss,D016301,D8_MeSH_XML|disease_mesh_xlsx,True
+1077,"Lymphoma, B-Cell",D016393,D8_MeSH_XML|disease_mesh_xlsx,True
+1078,"Lymphoma, T-Cell",D016399,D8_MeSH_XML|disease_mesh_xlsx,True
+1079,"Lymphoma, Large B-Cell, Diffuse",D016403,D8_MeSH_XML|disease_mesh_xlsx,True
+1080,"Lymphoma, T-Cell, Cutaneous",D016410,D8_MeSH_XML|disease_mesh_xlsx,True
+1081,"Lymphoma, T-Cell, Peripheral",D016411,D8_MeSH_XML|disease_mesh_xlsx,True
+1082,Lysosomal Storage Diseases,D016464,D8_MeSH_XML|disease_mesh_xlsx,True
+1083,Motor Neuron Disease,D016472,D8_MeSH_XML|disease_mesh_xlsx,True
+1084,Helicobacter pylori,D016480,D8_MeSH_XML|disease_mesh_xlsx,True
+1085,"Lymphoma, AIDS-Related",D016483,D8_MeSH_XML|disease_mesh_xlsx,True
+1086,Peripheral Vascular Diseases,D016491,D8_MeSH_XML|disease_mesh_xlsx,True
+1087,Corneal Neovascularization,D016510,D8_MeSH_XML|disease_mesh_xlsx,True
+1088,Neurofibromatosis 2,D016518,D8_MeSH_XML|disease_mesh_xlsx,True
+1089,Foot Ulcer,D016523,D8_MeSH_XML|disease_mesh_xlsx,True
+1090,Central Nervous System Neoplasms,D016543,D8_MeSH_XML|disease_mesh_xlsx,True
+1091,"Purpura, Thrombocytopenic, Idiopathic",D016553,D8_MeSH_XML|disease_mesh_xlsx,True
+1092,Enzootic Bovine Leukosis,D016583,D8_MeSH_XML|disease_mesh_xlsx,True
+1093,Panic Disorder,D016584,D8_MeSH_XML|disease_mesh_xlsx,True
+1094,"Vaginosis, Bacterial",D016585,D8_MeSH_XML|disease_mesh_xlsx,True
+1095,Thyroid Nodule,D016606,D8_MeSH_XML|disease_mesh_xlsx,True
+1096,"Neoplasms, Second Primary",D016609,D8_MeSH_XML|disease_mesh_xlsx,True
+1097,Critical Illness,D016638,D8_MeSH_XML|disease_mesh_xlsx,True
+1098,"Diabetes, Gestational",D016640,D8_MeSH_XML|disease_mesh_xlsx,True
+1099,Primary Ovarian Insufficiency,D016649,D8_MeSH_XML|disease_mesh_xlsx,True
+1100,"Still's Disease, Adult-Onset",D016706,D8_MeSH_XML|disease_mesh_xlsx,True
+1101,Antiphospholipid Syndrome,D016736,D8_MeSH_XML|disease_mesh_xlsx,True
+1102,Stiff-Person Syndrome,D016750,D8_MeSH_XML|disease_mesh_xlsx,True
+1103,Hepatitis E,D016751,D8_MeSH_XML|disease_mesh_xlsx,True
+1104,"Death, Sudden, Cardiac",D016757,D8_MeSH_XML|disease_mesh_xlsx,True
+1105,"Leishmaniasis, Diffuse Cutaneous",D016774,D8_MeSH_XML|disease_mesh_xlsx,True
+1106,"Malaria, Falciparum",D016778,D8_MeSH_XML|disease_mesh_xlsx,True
+1107,"Malaria, Cerebral",D016779,D8_MeSH_XML|disease_mesh_xlsx,True
+1108,"Malaria, Vivax",D016780,D8_MeSH_XML|disease_mesh_xlsx,True
+1109,"Toxoplasmosis, Cerebral",D016781,D8_MeSH_XML|disease_mesh_xlsx,True
+1110,"Keratitis, Herpetic",D016849,D8_MeSH_XML|disease_mesh_xlsx,True
+1111,Li-Fraumeni Syndrome,D016864,D8_MeSH_XML|disease_mesh_xlsx,True
+1112,Endometrial Neoplasms,D016889,D8_MeSH_XML|disease_mesh_xlsx,True
+1113,Carotid Stenosis,D016893,D8_MeSH_XML|disease_mesh_xlsx,True
+1114,Gram-Negative Bacterial Infections,D016905,D8_MeSH_XML|disease_mesh_xlsx,True
+1115,"Meningitis, Bacterial",D016920,D8_MeSH_XML|disease_mesh_xlsx,True
+1116,"Meningitis, Fungal",D016921,D8_MeSH_XML|disease_mesh_xlsx,True
+1117,Rotator Cuff,D017006,D8_MeSH_XML|disease_mesh_xlsx,True
+1118,alpha-Thalassemia,D017085,D8_MeSH_XML|disease_mesh_xlsx,True
+1119,beta-Thalassemia,D017086,D8_MeSH_XML|disease_mesh_xlsx,True
+1120,"Porphyria, Erythropoietic",D017092,D8_MeSH_XML|disease_mesh_xlsx,True
+1121,Liver Failure,D017093,D8_MeSH_XML|disease_mesh_xlsx,True
+1122,Prion Diseases,D017096,D8_MeSH_XML|disease_mesh_xlsx,True
+1123,"Liver Failure, Acute",D017114,D8_MeSH_XML|disease_mesh_xlsx,True
+1124,Low Back Pain,D017116,D8_MeSH_XML|disease_mesh_xlsx,True
+1125,"Tachycardia, Ventricular",D017180,D8_MeSH_XML|disease_mesh_xlsx,True
+1126,Myocardial Ischemia,D017202,D8_MeSH_XML|disease_mesh_xlsx,True
+1127,Angelman Syndrome,D017204,D8_MeSH_XML|disease_mesh_xlsx,True
+1128,"Ophthalmoplegia, Chronic Progressive External",D017246,D8_MeSH_XML|disease_mesh_xlsx,True
+1129,Polymyositis,D017285,D8_MeSH_XML|disease_mesh_xlsx,True
+1130,"Hypertrophy, Left Ventricular",D017379,D8_MeSH_XML|disease_mesh_xlsx,True
+1131,"Hypertrophy, Right Ventricular",D017380,D8_MeSH_XML|disease_mesh_xlsx,True
+1132,"Cicatrix, Hypertrophic",D017439,D8_MeSH_XML|disease_mesh_xlsx,True
+1133,Necrobiotic Disorders,D017441,D8_MeSH_XML|disease_mesh_xlsx,True
+1134,"Dermatitis, Allergic Contact",D017449,D8_MeSH_XML|disease_mesh_xlsx,True
+1135,"Ichthyosis, Lamellar",D017490,D8_MeSH_XML|disease_mesh_xlsx,True
+1136,Hyperpigmentation,D017495,D8_MeSH_XML|disease_mesh_xlsx,True
+1137,Hidradenitis Suppurativa,D017497,D8_MeSH_XML|disease_mesh_xlsx,True
+1138,Pyoderma Gangrenosum,D017511,D8_MeSH_XML|disease_mesh_xlsx,True
+1139,"Aortic Aneurysm, Abdominal",D017544,D8_MeSH_XML|disease_mesh_xlsx,True
+1140,"Aortic Aneurysm, Thoracic",D017545,D8_MeSH_XML|disease_mesh_xlsx,True
+1141,"Lung Diseases, Interstitial",D017563,D8_MeSH_XML|disease_mesh_xlsx,True
+1142,"Sarcoidosis, Pulmonary",D017565,D8_MeSH_XML|disease_mesh_xlsx,True
+1143,Hyperandrogenism,D017588,D8_MeSH_XML|disease_mesh_xlsx,True
+1144,CREST Syndrome,D017675,D8_MeSH_XML|disease_mesh_xlsx,True
+1145,"Lichen Planus, Oral",D017676,D8_MeSH_XML|disease_mesh_xlsx,True
+1146,Polydactyly,D017689,D8_MeSH_XML|disease_mesh_xlsx,True
+1147,Soft Tissue Injuries,D017695,D8_MeSH_XML|disease_mesh_xlsx,True
+1148,Diabetic Foot,D017719,D8_MeSH_XML|disease_mesh_xlsx,True
+1149,"Lymphoma, Large-Cell, Anaplastic",D017728,D8_MeSH_XML|disease_mesh_xlsx,True
+1150,Canavan Disease,D017825,D8_MeSH_XML|disease_mesh_xlsx,True
+1151,Ossification of Posterior Longitudinal Ligament,D017887,D8_MeSH_XML|disease_mesh_xlsx,True
+1152,Exfoliation Syndrome,D017889,D8_MeSH_XML|disease_mesh_xlsx,True
+1153,Infectious pancreatic necrosis virus,D018061,D8_MeSH_XML|disease_mesh_xlsx,True
+1154,"Tuberculosis, Multidrug-Resistant",D018088,D8_MeSH_XML|disease_mesh_xlsx,True
+1155,Glucose Intolerance,D018149,D8_MeSH_XML|disease_mesh_xlsx,True
+1156,Hepatoblastoma,D018197,D8_MeSH_XML|disease_mesh_xlsx,True
+1157,Osteoblastoma,D018215,D8_MeSH_XML|disease_mesh_xlsx,True
+1158,Osteochondromatosis,D018216,D8_MeSH_XML|disease_mesh_xlsx,True
+1159,"Osteosarcoma, Juxtacortical",D018217,D8_MeSH_XML|disease_mesh_xlsx,True
+1160,"Neoplasms, Fibrous Tissue",D018218,D8_MeSH_XML|disease_mesh_xlsx,True
+1161,Desmoid Tumors,D018222,D8_MeSH_XML|disease_mesh_xlsx,True
+1162,Fibroadenoma,D018226,D8_MeSH_XML|disease_mesh_xlsx,True
+1163,"Rhabdomyosarcoma, Alveolar",D018232,D8_MeSH_XML|disease_mesh_xlsx,True
+1164,Smooth Muscle Tumor,D018235,D8_MeSH_XML|disease_mesh_xlsx,True
+1165,"Carcinoma, Embryonal",D018236,D8_MeSH_XML|disease_mesh_xlsx,True
+1166,Seminoma,D018239,D8_MeSH_XML|disease_mesh_xlsx,True
+1167,Endodermal Sinus Tumor,D018240,D8_MeSH_XML|disease_mesh_xlsx,True
+1168,"Neuroectodermal Tumors, Primitive",D018242,D8_MeSH_XML|disease_mesh_xlsx,True
+1169,"Trophoblastic Tumor, Placental Site",D018245,D8_MeSH_XML|disease_mesh_xlsx,True
+1170,Adrenocortical Adenoma,D018246,D8_MeSH_XML|disease_mesh_xlsx,True
+1171,"Adenocarcinoma, Follicular",D018263,D8_MeSH_XML|disease_mesh_xlsx,True
+1172,Adrenocortical Carcinoma,D018268,D8_MeSH_XML|disease_mesh_xlsx,True
+1173,"Carcinoma, Endometrioid",D018269,D8_MeSH_XML|disease_mesh_xlsx,True
+1174,"Carcinoma, Ductal, Breast",D018270,D8_MeSH_XML|disease_mesh_xlsx,True
+1175,"Carcinoma, Mucoepidermoid",D018277,D8_MeSH_XML|disease_mesh_xlsx,True
+1176,Cholangiocarcinoma,D018281,D8_MeSH_XML|disease_mesh_xlsx,True
+1177,"Cystadenocarcinoma, Serous",D018284,D8_MeSH_XML|disease_mesh_xlsx,True
+1178,"Carcinoma, Small Cell",D018288,D8_MeSH_XML|disease_mesh_xlsx,True
+1179,"Neoplasms, Mesothelial",D018301,D8_MeSH_XML|disease_mesh_xlsx,True
+1180,"Neoplasms, Squamous Cell",D018307,D8_MeSH_XML|disease_mesh_xlsx,True
+1181,"Papilloma, Inverted",D018308,D8_MeSH_XML|disease_mesh_xlsx,True
+1182,"Neurofibroma, Plexiform",D018318,D8_MeSH_XML|disease_mesh_xlsx,True
+1183,Nevi and Melanomas,D018326,D8_MeSH_XML|disease_mesh_xlsx,True
+1184,Coronavirus Infections,D018352,D8_MeSH_XML|disease_mesh_xlsx,True
+1185,Respiratory Syncytial Virus Infections,D018357,D8_MeSH_XML|disease_mesh_xlsx,True
+1186,Neuroendocrine Tumors,D018358,D8_MeSH_XML|disease_mesh_xlsx,True
+1187,"Neoplasm, Residual",D018365,D8_MeSH_XML|disease_mesh_xlsx,True
+1188,Ape Diseases,D018420,D8_MeSH_XML|disease_mesh_xlsx,True
+1189,"Cholesteatoma, Middle Ear",D018424,D8_MeSH_XML|disease_mesh_xlsx,True
+1190,Disease Progression,D018450,D8_MeSH_XML|disease_mesh_xlsx,True
+1191,Lichen Sclerosus et Atrophicus,D018459,D8_MeSH_XML|disease_mesh_xlsx,True
+1192,"Ventricular Dysfunction, Left",D018487,D8_MeSH_XML|disease_mesh_xlsx,True
+1193,Hyperoxia,D018496,D8_MeSH_XML|disease_mesh_xlsx,True
+1194,"Ventricular Dysfunction, Right",D018497,D8_MeSH_XML|disease_mesh_xlsx,True
+1195,"Vitreoretinopathy, Proliferative",D018630,D8_MeSH_XML|disease_mesh_xlsx,True
+1196,Hypoplastic Left Heart Syndrome,D018636,D8_MeSH_XML|disease_mesh_xlsx,True
+1197,Systemic Inflammatory Response Syndrome,D018746,D8_MeSH_XML|disease_mesh_xlsx,True
+1198,Ventricular Dysfunction,D018754,D8_MeSH_XML|disease_mesh_xlsx,True
+1199,"Encephalitis, Viral",D018792,D8_MeSH_XML|disease_mesh_xlsx,True
+1200,"Anemia, Iron-Deficiency",D018798,D8_MeSH_XML|disease_mesh_xlsx,True
+1201,Sepsis,D018805,D8_MeSH_XML|disease_mesh_xlsx,True
+1202,"Carcinoma, Lewis Lung",D018827,D8_MeSH_XML|disease_mesh_xlsx,True
+1203,"Cystitis, Interstitial",D018856,D8_MeSH_XML|disease_mesh_xlsx,True
+1204,Environmental Illness,D018876,D8_MeSH_XML|disease_mesh_xlsx,True
+1205,Ventricular Premature Complexes,D018879,D8_MeSH_XML|disease_mesh_xlsx,True
+1206,Atrial Premature Complexes,D018880,D8_MeSH_XML|disease_mesh_xlsx,True
+1207,Heat Stroke,D018883,D8_MeSH_XML|disease_mesh_xlsx,True
+1208,"Aphasia, Primary Progressive",D018888,D8_MeSH_XML|disease_mesh_xlsx,True
+1209,"Depression, Postpartum",D019052,D8_MeSH_XML|disease_mesh_xlsx,True
+1210,"Hemorrhagic Fever, Ebola",D019142,D8_MeSH_XML|disease_mesh_xlsx,True
+1211,Neuroaxonal Dystrophies,D019150,D8_MeSH_XML|disease_mesh_xlsx,True
+1212,Iron Metabolism Disorders,D019189,D8_MeSH_XML|disease_mesh_xlsx,True
+1213,Gingival Overgrowth,D019214,D8_MeSH_XML|disease_mesh_xlsx,True
+1214,Oral Ulcer,D019226,D8_MeSH_XML|disease_mesh_xlsx,True
+1215,"Pancreatitis, Acute Necrotizing",D019283,D8_MeSH_XML|disease_mesh_xlsx,True
+1216,"Epilepsy, Rolandic",D019305,D8_MeSH_XML|disease_mesh_xlsx,True
+1217,Porcine Reproductive and Respiratory Syndrome,D019318,D8_MeSH_XML|disease_mesh_xlsx,True
+1218,Hematologic Neoplasms,D019337,D8_MeSH_XML|disease_mesh_xlsx,True
+1219,Endotoxemia,D019446,D8_MeSH_XML|disease_mesh_xlsx,True
+1220,Craniofacial Abnormalities,D019465,D8_MeSH_XML|disease_mesh_xlsx,True
+1221,Arrhythmogenic Right Ventricular Dysplasia,D019571,D8_MeSH_XML|disease_mesh_xlsx,True
+1222,Multiple System Atrophy,D019578,D8_MeSH_XML|disease_mesh_xlsx,True
+1223,"Aging, Premature",D019588,D8_MeSH_XML|disease_mesh_xlsx,True
+1224,Severe Dengue,D019595,D8_MeSH_XML|disease_mesh_xlsx,True
+1225,Neurodegenerative Diseases,D019636,D8_MeSH_XML|disease_mesh_xlsx,True
+1226,"Hepatitis, Autoimmune",D019693,D8_MeSH_XML|disease_mesh_xlsx,True
+1227,"Hepatitis B, Chronic",D019694,D8_MeSH_XML|disease_mesh_xlsx,True
+1228,"Hepatitis C, Chronic",D019698,D8_MeSH_XML|disease_mesh_xlsx,True
+1229,Mood Disorders,D019964,D8_MeSH_XML|disease_mesh_xlsx,True
+1230,Substance-Related Disorders,D019966,D8_MeSH_XML|disease_mesh_xlsx,True
+1231,Cocaine-Related Disorders,D019970,D8_MeSH_XML|disease_mesh_xlsx,True
+1232,"Sexual Dysfunctions, Psychological",D020018,D8_MeSH_XML|disease_mesh_xlsx,True
+1233,Epstein-Barr Virus Infections,D020031,D8_MeSH_XML|disease_mesh_xlsx,True
+1234,Hepatopulmonary Syndrome,D020065,D8_MeSH_XML|disease_mesh_xlsx,True
+1235,Neurogenic Inflammation,D020078,D8_MeSH_XML|disease_mesh_xlsx,True
+1236,"Hyperglycinemia, Nonketotic",D020158,D8_MeSH_XML|disease_mesh_xlsx,True
+1237,"Sleep Apnea, Obstructive",D020181,D8_MeSH_XML|disease_mesh_xlsx,True
+1238,REM Sleep Behavior Disorder,D020187,D8_MeSH_XML|disease_mesh_xlsx,True
+1239,"Hematoma, Subdural, Chronic",D020200,D8_MeSH_XML|disease_mesh_xlsx,True
+1240,"Cerebral Hemorrhage, Traumatic",D020202,D8_MeSH_XML|disease_mesh_xlsx,True
+1241,"Brain Injury, Chronic",D020208,D8_MeSH_XML|disease_mesh_xlsx,True
+1242,Cranial Nerve Injuries,D020209,D8_MeSH_XML|disease_mesh_xlsx,True
+1243,Carotid Artery Injuries,D020212,D8_MeSH_XML|disease_mesh_xlsx,True
+1244,Facial Nerve Injuries,D020220,D8_MeSH_XML|disease_mesh_xlsx,True
+1245,Optic Nerve Injuries,D020221,D8_MeSH_XML|disease_mesh_xlsx,True
+1246,"Encephalomyelitis, Western Equine",D020241,D8_MeSH_XML|disease_mesh_xlsx,True
+1247,"Encephalomyelitis, Eastern Equine",D020242,D8_MeSH_XML|disease_mesh_xlsx,True
+1248,"Infarction, Middle Cerebral Artery",D020244,D8_MeSH_XML|disease_mesh_xlsx,True
+1249,Venous Thrombosis,D020246,D8_MeSH_XML|disease_mesh_xlsx,True
+1250,Gastric Antral Vascular Ectasia,D020252,D8_MeSH_XML|disease_mesh_xlsx,True
+1251,Choroidal Neovascularization,D020256,D8_MeSH_XML|disease_mesh_xlsx,True
+1252,Ventricular Remodeling,D020257,D8_MeSH_XML|disease_mesh_xlsx,True
+1253,Neurotoxicity Syndromes,D020258,D8_MeSH_XML|disease_mesh_xlsx,True
+1254,Arsenic Poisoning,D020261,D8_MeSH_XML|disease_mesh_xlsx,True
+1255,MPTP Poisoning,D020267,D8_MeSH_XML|disease_mesh_xlsx,True
+1256,Autoimmune Diseases of the Nervous System,D020274,D8_MeSH_XML|disease_mesh_xlsx,True
+1257,Guillain-Barre Syndrome,D020275,D8_MeSH_XML|disease_mesh_xlsx,True
+1258,"Papilloma, Choroid Plexus",D020288,D8_MeSH_XML|disease_mesh_xlsx,True
+1259,"Vasculitis, Central Nervous System",D020293,D8_MeSH_XML|disease_mesh_xlsx,True
+1260,Brain Stem Neoplasms,D020295,D8_MeSH_XML|disease_mesh_xlsx,True
+1261,Intracranial Hemorrhages,D020300,D8_MeSH_XML|disease_mesh_xlsx,True
+1262,"Vasospasm, Intracranial",D020301,D8_MeSH_XML|disease_mesh_xlsx,True
+1263,Optic Nerve Glioma,D020339,D8_MeSH_XML|disease_mesh_xlsx,True
+1264,"Enterocolitis, Necrotizing",D020345,D8_MeSH_XML|disease_mesh_xlsx,True
+1265,"Osteoarthritis, Knee",D020370,D8_MeSH_XML|disease_mesh_xlsx,True
+1266,Pelizaeus-Merzbacher Disease,D020371,D8_MeSH_XML|disease_mesh_xlsx,True
+1267,"Muscular Dystrophy, Duchenne",D020388,D8_MeSH_XML|disease_mesh_xlsx,True
+1268,"Muscular Dystrophy, Facioscapulohumeral",D020391,D8_MeSH_XML|disease_mesh_xlsx,True
+1269,Sciatic Neuropathy,D020426,D8_MeSH_XML|disease_mesh_xlsx,True
+1270,Brain Infarction,D020520,D8_MeSH_XML|disease_mesh_xlsx,True
+1271,Stroke,D020521,D8_MeSH_XML|disease_mesh_xlsx,True
+1272,"Lymphoma, Mantle-Cell",D020522,D8_MeSH_XML|disease_mesh_xlsx,True
+1273,"Multiple Sclerosis, Chronic Progressive",D020528,D8_MeSH_XML|disease_mesh_xlsx,True
+1274,"Multiple Sclerosis, Relapsing-Remitting",D020529,D8_MeSH_XML|disease_mesh_xlsx,True
+1275,Edwardsiella tarda,D020609,D8_MeSH_XML|disease_mesh_xlsx,True
+1276,Parkinsonian Disorders,D020734,D8_MeSH_XML|disease_mesh_xlsx,True
+1277,Spinal Cord Ischemia,D020760,D8_MeSH_XML|disease_mesh_xlsx,True
+1278,Intracranial Arterial Diseases,D020765,D8_MeSH_XML|disease_mesh_xlsx,True
+1279,Intracranial Thrombosis,D020767,D8_MeSH_XML|disease_mesh_xlsx,True
+1280,"Hemangioma, Cavernous, Central Nervous System",D020786,D8_MeSH_XML|disease_mesh_xlsx,True
+1281,Epidural Abscess,D020802,D8_MeSH_XML|disease_mesh_xlsx,True
+1282,Central Nervous System Bacterial Infections,D020806,D8_MeSH_XML|disease_mesh_xlsx,True
+1283,"Myopathies, Structural, Congenital",D020914,D8_MeSH_XML|disease_mesh_xlsx,True
+1284,Complex Regional Pain Syndromes,D020918,D8_MeSH_XML|disease_mesh_xlsx,True
+1285,"Hypoxia-Ischemia, Brain",D020925,D8_MeSH_XML|disease_mesh_xlsx,True
+1286,"Lupus Vasculitis, Central Nervous System",D020945,D8_MeSH_XML|disease_mesh_xlsx,True
+1287,Lewy Body Disease,D020961,D8_MeSH_XML|disease_mesh_xlsx,True
+1288,Embryo Loss,D020964,D8_MeSH_XML|disease_mesh_xlsx,True
+1289,"Muscular Disorders, Atrophic",D020966,D8_MeSH_XML|disease_mesh_xlsx,True
+1290,Myotonic Disorders,D020967,D8_MeSH_XML|disease_mesh_xlsx,True
+1291,"Carcinoma, Pancreatic Ductal",D021441,D8_MeSH_XML|disease_mesh_xlsx,True
+1292,Coronary Restenosis,D023903,D8_MeSH_XML|disease_mesh_xlsx,True
+1293,Coronary Stenosis,D023921,D8_MeSH_XML|disease_mesh_xlsx,True
+1294,"Cardiomyopathy, Hypertrophic, Familial",D024741,D8_MeSH_XML|disease_mesh_xlsx,True
+1295,Atrial Myosins,D024743,D8_MeSH_XML|disease_mesh_xlsx,True
+1296,Metabolic Syndrome,D024821,D8_MeSH_XML|disease_mesh_xlsx,True
+1297,Spondylarthropathies,D025242,D8_MeSH_XML|disease_mesh_xlsx,True
+1298,Mitochondrial Diseases,D028361,D8_MeSH_XML|disease_mesh_xlsx,True
+1299,Biotinidase Deficiency,D028921,D8_MeSH_XML|disease_mesh_xlsx,True
+1300,Peste-des-Petits-Ruminants,D029021,D8_MeSH_XML|disease_mesh_xlsx,True
+1301,"Optic Atrophy, Hereditary, Leber",D029242,D8_MeSH_XML|disease_mesh_xlsx,True
+1302,"Pulmonary Disease, Chronic Obstructive",D029424,D8_MeSH_XML|disease_mesh_xlsx,True
+1303,Sialic Acid Storage Disease,D029461,D8_MeSH_XML|disease_mesh_xlsx,True
+1304,"Enterovirus B, Human",D029822,D8_MeSH_XML|disease_mesh_xlsx,True
+1305,"Genetic Diseases, Inborn",D030342,D8_MeSH_XML|disease_mesh_xlsx,True
+1306,Papillomavirus Infections,D030361,D8_MeSH_XML|disease_mesh_xlsx,True
+1307,Erdheim-Chester Disease,D031249,D8_MeSH_XML|disease_mesh_xlsx,True
+1308,Gestational Trophoblastic Disease,D031901,D8_MeSH_XML|disease_mesh_xlsx,True
+1309,Hyperuricemia,D033461,D8_MeSH_XML|disease_mesh_xlsx,True
+1310,"Wasting Disease, Chronic",D034081,D8_MeSH_XML|disease_mesh_xlsx,True
+1311,Hearing Loss,D034381,D8_MeSH_XML|disease_mesh_xlsx,True
+1312,"Mastocytosis, Cutaneous",D034701,D8_MeSH_XML|disease_mesh_xlsx,True
+1313,Post-Concussion Syndrome,D038223,D8_MeSH_XML|disease_mesh_xlsx,True
+1314,X-Linked Intellectual Disability,D038901,D8_MeSH_XML|disease_mesh_xlsx,True
+1315,"Muscular Dystrophy, Oculopharyngeal",D039141,D8_MeSH_XML|disease_mesh_xlsx,True
+1316,HIV-Associated Lipodystrophy Syndrome,D039682,D8_MeSH_XML|disease_mesh_xlsx,True
+1317,"Stress Disorders, Traumatic",D040921,D8_MeSH_XML|disease_mesh_xlsx,True
+1318,Cholecystolithiasis,D041761,D8_MeSH_XML|disease_mesh_xlsx,True
+1319,Choledocholithiasis,D042883,D8_MeSH_XML|disease_mesh_xlsx,True
+1320,Irritable Bowel Syndrome,D043183,D8_MeSH_XML|disease_mesh_xlsx,True
+1321,Glucose Metabolism Disorders,D044882,D8_MeSH_XML|disease_mesh_xlsx,True
+1322,Severe Acute Respiratory Syndrome,D045169,D8_MeSH_XML|disease_mesh_xlsx,True
+1323,"Scleroderma, Diffuse",D045743,D8_MeSH_XML|disease_mesh_xlsx,True
+1324,Ganglion Cysts,D045888,D8_MeSH_XML|disease_mesh_xlsx,True
+1325,"Hearing Loss, Unilateral",D046088,D8_MeSH_XML|disease_mesh_xlsx,True
+1326,"Hypertension, Pregnancy-Induced",D046110,D8_MeSH_XML|disease_mesh_xlsx,True
+1327,Laron Syndrome,D046150,D8_MeSH_XML|disease_mesh_xlsx,True
+1328,Gastrointestinal Stromal Tumors,D046152,D8_MeSH_XML|disease_mesh_xlsx,True
+1329,"Coproporphyria, Hereditary",D046349,D8_MeSH_XML|disease_mesh_xlsx,True
+1330,"Porphyria, Variegate",D046350,D8_MeSH_XML|disease_mesh_xlsx,True
+1331,"Myopia, Degenerative",D047728,D8_MeSH_XML|disease_mesh_xlsx,True
+1332,Pituitary ACTH Hypersecretion,D047748,D8_MeSH_XML|disease_mesh_xlsx,True
+1333,Premature Birth,D047928,D8_MeSH_XML|disease_mesh_xlsx,True
+1334,Hepatic Insufficiency,D048550,D8_MeSH_XML|disease_mesh_xlsx,True
+1335,Diabetes Complications,D048909,D8_MeSH_XML|disease_mesh_xlsx,True
+1336,"Muscular Dystrophies, Limb-Girdle",D049288,D8_MeSH_XML|disease_mesh_xlsx,True
+1337,"Esophageal Sphincter, Lower",D049630,D8_MeSH_XML|disease_mesh_xlsx,True
+1338,Growth Hormone-Secreting Pituitary Adenoma,D049912,D8_MeSH_XML|disease_mesh_xlsx,True
+1339,ACTH-Secreting Pituitary Adenoma,D049913,D8_MeSH_XML|disease_mesh_xlsx,True
+1340,DNA Repair-Deficiency Disorders,D049914,D8_MeSH_XML|disease_mesh_xlsx,True
+1341,Nijmegen Breakage Syndrome,D049932,D8_MeSH_XML|disease_mesh_xlsx,True
+1342,"Hyperparathyroidism, Primary",D049950,D8_MeSH_XML|disease_mesh_xlsx,True
+1343,Graves Ophthalmopathy,D049970,D8_MeSH_XML|disease_mesh_xlsx,True
+1344,Hashimoto Disease,D050031,D8_MeSH_XML|disease_mesh_xlsx,True
+1345,Dyslipidemias,D050171,D8_MeSH_XML|disease_mesh_xlsx,True
+1346,Atherosclerosis,D050197,D8_MeSH_XML|disease_mesh_xlsx,True
+1347,Stillbirth,D050497,D8_MeSH_XML|disease_mesh_xlsx,True
+1348,"Pancreatitis, Chronic",D050500,D8_MeSH_XML|disease_mesh_xlsx,True
+1349,"Fractures, Bone",D050723,D8_MeSH_XML|disease_mesh_xlsx,True
+1350,Post-Dural Puncture Headache,D051299,D8_MeSH_XML|disease_mesh_xlsx,True
+1351,"Lymphohistiocytosis, Hemophagocytic",D051359,D8_MeSH_XML|disease_mesh_xlsx,True
+1352,"Renal Insufficiency, Chronic",D051436,D8_MeSH_XML|disease_mesh_xlsx,True
+1353,Renal Insufficiency,D051437,D8_MeSH_XML|disease_mesh_xlsx,True
+1354,"Neuralgia, Postherpetic",D051474,D8_MeSH_XML|disease_mesh_xlsx,True
+1355,"Histiocytoma, Malignant Fibrous",D051677,D8_MeSH_XML|disease_mesh_xlsx,True
+1356,Delayed Graft Function,D051799,D8_MeSH_XML|disease_mesh_xlsx,True
+1357,Mucositis,D052016,D8_MeSH_XML|disease_mesh_xlsx,True
+1358,Bulimia Nervosa,D052018,D8_MeSH_XML|disease_mesh_xlsx,True
+1359,"Kidney Diseases, Cystic",D052177,D8_MeSH_XML|disease_mesh_xlsx,True
+1360,Tendinopathy,D052256,D8_MeSH_XML|disease_mesh_xlsx,True
+1361,Lipid Metabolism Disorders,D052439,D8_MeSH_XML|disease_mesh_xlsx,True
+1362,Familial Hypophosphatemic Rickets,D053098,D8_MeSH_XML|disease_mesh_xlsx,True
+1363,"Urinary Bladder, Overactive",D053201,D8_MeSH_XML|disease_mesh_xlsx,True
+1364,"Corneal Dystrophy, Juvenile Epithelial of Meesmann",D053559,D8_MeSH_XML|disease_mesh_xlsx,True
+1365,Asthenozoospermia,D053627,D8_MeSH_XML|disease_mesh_xlsx,True
+1366,X-Linked Combined Immunodeficiency Diseases,D053632,D8_MeSH_XML|disease_mesh_xlsx,True
+1367,Azoospermia,D053713,D8_MeSH_XML|disease_mesh_xlsx,True
+1368,Aspermia,D053714,D8_MeSH_XML|disease_mesh_xlsx,True
+1369,"Pneumonia, Ventilator-Associated",D053717,D8_MeSH_XML|disease_mesh_xlsx,True
+1370,Brugada Syndrome,D053840,D8_MeSH_XML|disease_mesh_xlsx,True
+1371,Acute Coronary Syndrome,D054058,D8_MeSH_XML|disease_mesh_xlsx,True
+1372,Coronary Occlusion,D054059,D8_MeSH_XML|disease_mesh_xlsx,True
+1373,"Leukemia, Large Granular Lymphocytic",D054066,D8_MeSH_XML|disease_mesh_xlsx,True
+1374,Dihydropyrimidine Dehydrogenase Deficiency,D054067,D8_MeSH_XML|disease_mesh_xlsx,True
+1375,"Malformations of Cortical Development, Group II",D054081,D8_MeSH_XML|disease_mesh_xlsx,True
+1376,Lissencephaly,D054082,D8_MeSH_XML|disease_mesh_xlsx,True
+1377,"Heart Failure, Systolic",D054143,D8_MeSH_XML|disease_mesh_xlsx,True
+1378,"Heart Failure, Diastolic",D054144,D8_MeSH_XML|disease_mesh_xlsx,True
+1379,Precursor Cell Lymphoblastic Leukemia-Lymphoma,D054198,D8_MeSH_XML|disease_mesh_xlsx,True
+1380,Precursor T-Cell Lymphoblastic Leukemia-Lymphoma,D054218,D8_MeSH_XML|disease_mesh_xlsx,True
+1381,"Neoplasms, Plasma Cell",D054219,D8_MeSH_XML|disease_mesh_xlsx,True
+1382,Malformations of Cortical Development,D054220,D8_MeSH_XML|disease_mesh_xlsx,True
+1383,Vesicular Stomatitis,D054243,D8_MeSH_XML|disease_mesh_xlsx,True
+1384,Sertoli Cell-Only Syndrome,D054331,D8_MeSH_XML|disease_mesh_xlsx,True
+1385,"Lymphoma, Extranodal NK-T-Cell",D054391,D8_MeSH_XML|disease_mesh_xlsx,True
+1386,"Leukemia, Myeloid, Chronic, Atypical, BCR-ABL Negative",D054438,D8_MeSH_XML|disease_mesh_xlsx,True
+1387,Takotsubo Cardiomyopathy,D054549,D8_MeSH_XML|disease_mesh_xlsx,True
+1388,Venous Thromboembolism,D054556,D8_MeSH_XML|disease_mesh_xlsx,True
+1389,Hyperphosphatemia,D054559,D8_MeSH_XML|disease_mesh_xlsx,True
+1390,"Lymphoma, Primary Effusion",D054685,D8_MeSH_XML|disease_mesh_xlsx,True
+1391,"Mastocytoma, Skin",D054705,D8_MeSH_XML|disease_mesh_xlsx,True
+1392,Histiocytic Sarcoma,D054747,D8_MeSH_XML|disease_mesh_xlsx,True
+1393,Postural Orthostatic Tachycardia Syndrome,D054972,D8_MeSH_XML|disease_mesh_xlsx,True
+1394,Idiopathic Pulmonary Fibrosis,D054990,D8_MeSH_XML|disease_mesh_xlsx,True
+1395,"Osteoarthritis, Spine",D055013,D8_MeSH_XML|disease_mesh_xlsx,True
+1396,Primary Graft Dysfunction,D055031,D8_MeSH_XML|disease_mesh_xlsx,True
+1397,Chronic Periodontitis,D055113,D8_MeSH_XML|disease_mesh_xlsx,True
+1398,Lung Injury,D055370,D8_MeSH_XML|disease_mesh_xlsx,True
+1399,Acute Lung Injury,D055371,D8_MeSH_XML|disease_mesh_xlsx,True
+1400,Multiple Pulmonary Nodules,D055613,D8_MeSH_XML|disease_mesh_xlsx,True
+1401,Primary Myelofibrosis,D055728,D8_MeSH_XML|disease_mesh_xlsx,True
+1402,Small Cell Lung Carcinoma,D055752,D8_MeSH_XML|disease_mesh_xlsx,True
+1403,Sarcopenia,D055948,D8_MeSH_XML|disease_mesh_xlsx,True
+1404,Microscopic Polyangiitis,D055953,D8_MeSH_XML|disease_mesh_xlsx,True
+1405,Susac Syndrome,D055955,D8_MeSH_XML|disease_mesh_xlsx,True
+1406,Intervertebral Disc Degeneration,D055959,D8_MeSH_XML|disease_mesh_xlsx,True
+1407,"Obesity, Abdominal",D056128,D8_MeSH_XML|disease_mesh_xlsx,True
+1408,Chemical and Drug Induced Liver Injury,D056486,D8_MeSH_XML|disease_mesh_xlsx,True
+1409,"Chemical and Drug Induced Liver Injury, Chronic",D056487,D8_MeSH_XML|disease_mesh_xlsx,True
+1410,Cryopyrin-Associated Periodic Syndromes,D056587,D8_MeSH_XML|disease_mesh_xlsx,True
+1411,Peritoneal Fibrosis,D056627,D8_MeSH_XML|disease_mesh_xlsx,True
+1412,Hereditary Autoinflammatory Diseases,D056660,D8_MeSH_XML|disease_mesh_xlsx,True
+1413,Costello Syndrome,D056685,D8_MeSH_XML|disease_mesh_xlsx,True
+1414,Autoimmune Lymphoproliferative Syndrome,D056735,D8_MeSH_XML|disease_mesh_xlsx,True
+1415,Alstrom Syndrome,D056769,D8_MeSH_XML|disease_mesh_xlsx,True
+1416,Netherton Syndrome,D056770,D8_MeSH_XML|disease_mesh_xlsx,True
+1417,Leukoencephalopathies,D056784,D8_MeSH_XML|disease_mesh_xlsx,True
+1418,Hereditary Angioedema Types I and II,D056829,D8_MeSH_XML|disease_mesh_xlsx,True
+1419,Vasoplegia,D056987,D8_MeSH_XML|disease_mesh_xlsx,True
+1420,Periprosthetic Fractures,D057068,D8_MeSH_XML|disease_mesh_xlsx,True
+1421,Intra-Articular Fractures,D057072,D8_MeSH_XML|disease_mesh_xlsx,True
+1422,Iridocorneal Endothelial Syndrome,D057129,D8_MeSH_XML|disease_mesh_xlsx,True
+1423,Frontotemporal Lobar Degeneration,D057174,D8_MeSH_XML|disease_mesh_xlsx,True
+1424,Frontotemporal Dementia,D057180,D8_MeSH_XML|disease_mesh_xlsx,True
+1425,Eosinophilic Esophagitis,D057765,D8_MeSH_XML|disease_mesh_xlsx,True
+1426,Hyaline Fibromatosis Syndrome,D057770,D8_MeSH_XML|disease_mesh_xlsx,True
+1427,Vascular System Injuries,D057772,D8_MeSH_XML|disease_mesh_xlsx,True
+1428,Vitelliform Macular Dystrophy,D057826,D8_MeSH_XML|disease_mesh_xlsx,True
+1429,Peri-Implantitis,D057873,D8_MeSH_XML|disease_mesh_xlsx,True
+1430,Diabetic Cardiomyopathies,D058065,D8_MeSH_XML|disease_mesh_xlsx,True
+1431,Acute Kidney Injury,D058186,D8_MeSH_XML|disease_mesh_xlsx,True
+1432,"Plaque, Amyloid",D058225,D8_MeSH_XML|disease_mesh_xlsx,True
+1433,"Plaque, Atherosclerotic",D058226,D8_MeSH_XML|disease_mesh_xlsx,True
+1434,Prehypertension,D058246,D8_MeSH_XML|disease_mesh_xlsx,True
+1435,Birt-Hogg-Dube Syndrome,D058249,D8_MeSH_XML|disease_mesh_xlsx,True
+1436,Asymptomatic Infections,D058345,D8_MeSH_XML|disease_mesh_xlsx,True
+1437,Neointima,D058426,D8_MeSH_XML|disease_mesh_xlsx,True
+1438,Capsule Opacification,D058442,D8_MeSH_XML|disease_mesh_xlsx,True
+1439,Retinal Dystrophies,D058499,D8_MeSH_XML|disease_mesh_xlsx,True
+1440,Enteropathy-Associated T-Cell Lymphoma,D058527,D8_MeSH_XML|disease_mesh_xlsx,True
+1441,Inhalant Abuse,D058545,D8_MeSH_XML|disease_mesh_xlsx,True
+1442,End Stage Liver Disease,D058625,D8_MeSH_XML|disease_mesh_xlsx,True
+1443,Chromosome Duplication,D058674,D8_MeSH_XML|disease_mesh_xlsx,True
+1444,Out-of-Hospital Cardiac Arrest,D058687,D8_MeSH_XML|disease_mesh_xlsx,True
+1445,Peripheral Arterial Disease,D058729,D8_MeSH_XML|disease_mesh_xlsx,True
+1446,Osteoporotic Fractures,D058866,D8_MeSH_XML|disease_mesh_xlsx,True
+1447,Granulomatous Mastitis,D058890,D8_MeSH_XML|disease_mesh_xlsx,True
+1448,Inflammatory Breast Neoplasms,D058922,D8_MeSH_XML|disease_mesh_xlsx,True
+1449,Intraoperative Awareness,D058926,D8_MeSH_XML|disease_mesh_xlsx,True
+1450,Nociceptive Pain,D059226,D8_MeSH_XML|disease_mesh_xlsx,True
+1451,Visceral Pain,D059265,D8_MeSH_XML|disease_mesh_xlsx,True
+1452,Bisphosphonate-Associated Osteonecrosis of the Jaw,D059266,D8_MeSH_XML|disease_mesh_xlsx,True
+1453,Cerebral Small Vessel Diseases,D059345,D8_MeSH_XML|disease_mesh_xlsx,True
+1454,Cardio-Renal Syndrome,D059347,D8_MeSH_XML|disease_mesh_xlsx,True
+1455,Peripheral Nerve Injuries,D059348,D8_MeSH_XML|disease_mesh_xlsx,True
+1456,Chronic Pain,D059350,D8_MeSH_XML|disease_mesh_xlsx,True
+1457,Anhedonia,D059445,D8_MeSH_XML|disease_mesh_xlsx,True
+1458,White Coat Hypertension,D059466,D8_MeSH_XML|disease_mesh_xlsx,True
+1459,Fusariosis,D060585,D8_MeSH_XML|disease_mesh_xlsx,True
+1460,Trichosporonosis,D060586,D8_MeSH_XML|disease_mesh_xlsx,True
+1461,Reproductive Tract Infections,D060737,D8_MeSH_XML|disease_mesh_xlsx,True
+1462,Cognitive Dysfunction,D060825,D8_MeSH_XML|disease_mesh_xlsx,True
+1463,Vascular Calcification,D061205,D8_MeSH_XML|disease_mesh_xlsx,True
+1464,Adenomyosis,D062788,D8_MeSH_XML|disease_mesh_xlsx,True
+1465,Maternal Death,D063130,D8_MeSH_XML|disease_mesh_xlsx,True
+1466,Retrognathia,D063173,D8_MeSH_XML|disease_mesh_xlsx,True
+1467,Carcinogenesis,D063646,D8_MeSH_XML|disease_mesh_xlsx,True
+1468,Fetal Alcohol Spectrum Disorders,D063647,D8_MeSH_XML|disease_mesh_xlsx,True
+1469,Pediatric Obesity,D063766,D8_MeSH_XML|disease_mesh_xlsx,True
+1470,"Prostatic Neoplasms, Castration-Resistant",D064129,D8_MeSH_XML|disease_mesh_xlsx,True
+1471,Ankle Fractures,D064386,D8_MeSH_XML|disease_mesh_xlsx,True
+1472,Drug-Related Side Effects and Adverse Reactions,D064420,D8_MeSH_XML|disease_mesh_xlsx,True
+1473,Triple Negative Breast Neoplasms,D064726,D8_MeSH_XML|disease_mesh_xlsx,True
+1474,Lipedema,D065134,D8_MeSH_XML|disease_mesh_xlsx,True
+1475,Sepsis-Associated Encephalopathy,D065166,D8_MeSH_XML|disease_mesh_xlsx,True
+1476,Acute-On-Chronic Liver Failure,D065290,D8_MeSH_XML|disease_mesh_xlsx,True
+1477,Corneal Injuries,D065306,D8_MeSH_XML|disease_mesh_xlsx,True
+1478,Atypical Squamous Cells of the Cervix,D065309,D8_MeSH_XML|disease_mesh_xlsx,True
+1479,Squamous Intraepithelial Lesions of the Cervix,D065310,D8_MeSH_XML|disease_mesh_xlsx,True
+1480,Adenocarcinoma in Situ,D065311,D8_MeSH_XML|disease_mesh_xlsx,True
+1481,Non-alcoholic Fatty Liver Disease,D065626,D8_MeSH_XML|disease_mesh_xlsx,True
+1482,Familial Primary Pulmonary Hypertension,D065627,D8_MeSH_XML|disease_mesh_xlsx,True
+1483,"Hernias, Diaphragmatic, Congenital",D065630,D8_MeSH_XML|disease_mesh_xlsx,True
+1484,"Rhinitis, Allergic",D065631,D8_MeSH_XML|disease_mesh_xlsx,True
+1485,Benign Paroxysmal Positional Vertigo,D065635,D8_MeSH_XML|disease_mesh_xlsx,True
+1486,"Thyroid Carcinoma, Anaplastic",D065646,D8_MeSH_XML|disease_mesh_xlsx,True
+1487,Neurodevelopmental Disorders,D065886,D8_MeSH_XML|disease_mesh_xlsx,True
+1488,Cardiotoxicity,D066126,D8_MeSH_XML|disease_mesh_xlsx,True
+1489,Vascular Remodeling,D066253,D8_MeSH_XML|disease_mesh_xlsx,True

@@ -1,0 +1,121 @@
+D14 UNIFIED DATA AUDIT REPORT
+==============================================================================
+This stage builds external biological graphs only; it performs no training.
+HMDD raw records are label-audit-only and are absent from graph edge caches.
+
+[benchmark]
+mirnas: 1219
+legacy_diseases: 1490
+legacy_positives: 21996
+strict_diseases: 1490
+strict_positives: 21996
+duplicate_groups: []
+
+[mirbase_mapping]
+mapped_model_mirnas: 1219
+unmatched_model_mirnas: []
+unique_selected_matures: 1895
+matures_mapping_to_multiple_model_entities: 39
+max_precursors_per_model_entity: 1
+
+[mirtarbase]
+raw_rows: 4671966
+human_rows: 4004479
+human_strong_rows: 18044
+human_weak_rows: 3982199
+arm_suffix_fallback_rows: 278
+unmapped_mirna_rows: 1031
+unresolved_gene_rows: 1
+untruncated_unique_entity_gene_tier_edges: 9498
+selected_edges: 8741
+selected_strong_edges: 8741
+selected_weak_edges: 0
+truncated_edges: {"tier_3": 757}
+model_mirnas_with_strong_edges: 639
+model_mirnas_with_any_edges: 639
+degree: {"covered_entities": 639, "minimum": 1, "median": 4.0, "p95": 64.0, "maximum": 64}
+
+[disease_mesh_mapping]
+mapped_diseases: 1490
+unmapped_diseases: []
+
+[disgenet]
+raw_rows: 30068
+mapped_edges: 30066
+unresolved_gene_rows: 2
+unmatched_disease_rows: 0
+covered_diseases: 924
+weight_mode: input_column
+weight_column: confidence_weight
+constant_fallback_weight: None
+
+[ctd_curated]
+raw_rows: 34272
+unresolved_gene_rows: 591
+unmatched_disease_rows: 10693
+mapped_edges: 22988
+unique_edges_after_source: 22956
+covered_diseases: 1028
+
+[ctd_inferred]
+stored: False
+
+[combined_disease_gene]
+edges: 37788
+genes: 9852
+degree: {"covered_entities": 1138, "minimum": 1, "median": 9.0, "p95": 141.14999999999986, "maximum": 1053}
+covered_diseases_any: 1138
+covered_diseases_without_inferred: 1138
+source_mask_counts: {"3": 15234, "2": 7722, "1": 14832}
+
+[go]
+raw_rows: 906445
+selected_edges: 193906
+selected_terms: 16265
+covered_active_genes: 9319
+
+[reactome]
+human_mapping_rows: 159571
+unresolved_gene_rows: 3200
+human_pathways_before_filter: 2837
+retained_pathways: 2339
+selected_edges: 69752
+retained_hierarchy_edges: 2112
+covered_active_genes: 6770
+
+[string_ppi]
+active_genes: 10589
+mapped_active_genes: 9304
+protein_mapping_collisions: 13
+raw_selected_rows: 69026
+unique_undirected_edges: 34513
+covered_active_genes: 6409
+
+[canonical_graph]
+canonical_genes: 10589
+feature_edge_types: ["miRNA-Gene", "Disease-Gene", "Gene-GO", "Gene-Pathway", "Gene-PPI-Gene"]
+target_edge_type_present: False
+
+[candidate_pair_path_coverage]
+candidate_pairs: 1816310
+direct_mirna_gene_disease_pairs: 62831
+direct_fraction: 0.034592663146709536
+reactome_bridge_pairs: 521102
+reactome_fraction: 0.2869014650582775
+one_hop_ppi_bridge_pairs: 214850
+one_hop_ppi_fraction: 0.11828927881253751
+any_biological_path_pairs: 522927
+any_biological_path_fraction: 0.28790624948384363
+label_information_used: False
+
+[hmdd_raw]
+available: False
+
+[leakage_safety]
+hmdd_raw_written_to_feature_edges: False
+benchmark_association_written_only_to_benchmark_npz: True
+feature_cache_contains_mirna_disease_edges: False
+later_fold_requirement: Remove each validation/test target edge from fold-specific interaction graphs; external graphs remain fixed.
+
+[runtime]
+seconds: 52.41
